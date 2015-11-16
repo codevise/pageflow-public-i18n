@@ -1,0 +1,73 @@
+en:
+  pageflow:
+    public:
+      audio: Audio
+      back: Back
+      before_after:
+        hint: Before/after view
+        leave_view: Leave before/after view
+        start: Start before/after view
+        start_title: Start before/after view
+      chapter: Chapter
+      chart:
+        toggle: Toggle
+      close: Close
+      close_hint: Close hint
+      close_navigation: Close navigation
+      close_overview: Close overview
+      deprecated_browser: <p>Your browser is outdated and this page might not work as intended. We recommend upgrading your brwoser to the most recent version.</p>
+      embedded_video:
+        leave_video: Leave embedded video
+      enlarge_view: Enlarge view
+      enter_fullscreen: Enter Fullscreen mode
+      first_page: First page
+      forward: Forward
+      fullscreen: Fullscreen
+      goto_first_page: Go to first page
+      goto_top: Goto first page
+      hide_text: Hide text
+      home: Start
+      imprint: Imprint
+      javascript_hint: This application utilizes JavaScript for enhanced functionality and user experience. Your browser may not support JavaScript or it may be disabled.
+      leave_fullscreen: Exit fullscreen mode
+      lets_go: Let's go
+      logo: Logo
+      mute_off: Unmute
+      mute_on: Mute
+      navigate_top: Goto first page
+      navigation: Navigation
+      new_pages_box:
+        additional_pages_html: ! '...and <span></span> more'
+        description: ! 'Since your last visit, pages have been added to this pageflow:'
+        title: New Pages
+      notice: Notice
+      open_navigation: Open navigation
+      open_overview: Open overview
+      overview: Overview
+      panorama:
+        close: Close 360° panorama and display text
+        start: Start 360° panorama
+      play_video: Play video
+      scroll_back_indicator: ! ' '
+      scroll_down: Scroll down
+      scroll_hint: Use the mouse wheel or the arrow keys on your keyboard to navigate between pages.
+      scroll_indicator: Scroll down to continue
+      scroll_left: Scroll left
+      scroll_right: Scroll right
+      scroll_up: Scroll up
+      share: Teilen
+      share_on_facebook: Share on Facebook
+      share_on_google: Share on Google+
+      share_on_twitter: Share on Twitter
+      share_this_entry: This story
+      share_this_page: This page
+      show_home: Start
+      show_text: Show text
+      skip_links_content: Goto content
+      skip_links_navigation: Goto navigation
+      skip_links_top_navigation: Goto main navigation
+      sound_hint: This multimedia story format uses video and audio footage. Please make sure your speakers are turned on.
+      swipe_hint: Swipe to navigate between pages.
+      swipe_indicator: Swipe to continue
+      video: Video
+      volume: Volume
