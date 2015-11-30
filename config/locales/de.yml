@@ -1,6 +1,7 @@
 de:
   pageflow:
     public:
+      _language: Deutsch
       audio: Audio
       back: Zurück
       before_after:
