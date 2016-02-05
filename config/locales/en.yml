@@ -16,7 +16,7 @@ en:
       close_hint: Close hint
       close_navigation: Close navigation
       close_overview: Close overview
-      deprecated_browser: <p>Your browser is outdated and this page might not work as intended. We recommend upgrading your brwoser to the most recent version.</p>
+      deprecated_browser: <p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>
       embedded_video:
         leave_video: Leave embedded video
       enlarge_view: Enlarge view
@@ -56,7 +56,7 @@ en:
       scroll_left: Scroll left
       scroll_right: Scroll right
       scroll_up: Scroll up
-      share: Teilen
+      share: Share
       share_on_facebook: Share on Facebook
       share_on_google: Share on Google+
       share_on_twitter: Share on Twitter
