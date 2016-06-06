@@ -16,7 +16,7 @@ fr:
       close_hint: Fermer l’astuce
       close_navigation: Fermer la navigation
       close_overview: Fermer l’aperçu
-      deprecated_browser: <p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>
+      deprecated_browser: "<p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>"
       embedded_video:
         leave_video: Quitter la vidéo intégrée
       enlarge_view: Agrandir l’affichage
@@ -38,8 +38,8 @@ fr:
       navigate_top: Accéder à la première page
       navigation: Navigation
       new_pages_box:
-        additional_pages_html: … et <span></span> plus
-        description: ! 'Depuis votre dernière visite, des pages ont été ajoutées à ce Pageflow:'
+        additional_pages_html: "… et <span></span> plus"
+        description: 'Depuis votre dernière visite, des pages ont été ajoutées à ce Pageflow:'
         title: Nouvelles pages
       notice: Remarque
       open_navigation: Ouvrir la navigation
@@ -50,7 +50,7 @@ fr:
         start: Démarrer le panorama à 360°
       play_video: Lancer la vidéo
       scroll_back_indicator: 
-      scroll_down: ! "Faire défiler\t"
+      scroll_down: "Faire défiler\t"
       scroll_hint: Utilisez la roulette de la souris ou les touches de direction de votre clavier pour parcourir les pages.
       scroll_indicator: Faire défiler pour continuer
       scroll_left: Faire défiler vers la gauche

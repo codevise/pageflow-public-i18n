@@ -16,7 +16,7 @@ pt-BR:
       close_hint: Fechar dica
       close_navigation: Fechar navegação
       close_overview: Fechar visão geral
-      deprecated_browser: <p>O seu navegador está desatualizado e essa página pode não funcionar como planejado. Recomendamos atualizar seu navegador para a versão mais recente.</p>
+      deprecated_browser: "<p>O seu navegador está desatualizado e essa página pode não funcionar como planejado. Recomendamos atualizar seu navegador para a versão mais recente.</p>"
       embedded_video:
         leave_video: Sair do vídeo
       enlarge_view: Aumentar
@@ -38,7 +38,7 @@ pt-BR:
       navigate_top: Topo
       navigation: Navegação
       new_pages_box:
-        additional_pages_html: ! '...e <span></span> mais'
+        additional_pages_html: "...e <span></span> mais"
         description: Desde sua última visita, foram adicionadas novas páginas
         title: Nova página
       notice: Aviso

@@ -1,7 +1,7 @@
 cs-CZ:
   pageflow:
     public:
-      _language: Česky
+      _language: "Česky"
       audio: Zvuk
       back: Zpět
       before_after:
@@ -16,7 +16,7 @@ cs-CZ:
       close_hint: Zavřít nápovědu
       close_navigation: Zavřít navigaci
       close_overview: Zavřít náhled
-      deprecated_browser: <p>Používáte zastaralý prohlížeč, je proto možné, že nedokáže tuto stránku zobrazit tak, jak byla navržena. Doporučujeme jej aktualizovat na nejnovější verzi.</p>
+      deprecated_browser: "<p>Používáte zastaralý prohlížeč, je proto možné, že nedokáže tuto stránku zobrazit tak, jak byla navržena. Doporučujeme jej aktualizovat na nejnovější verzi.</p>"
       embedded_video:
         leave_video: Zavřít vložené video
       enlarge_view: Zvětšit zobrazení
@@ -38,8 +38,8 @@ cs-CZ:
       navigate_top: Jít na první stránku
       navigation: Navigace
       new_pages_box:
-        additional_pages_html: ! '...a <span></span> další'
-        description: ! 'Stránky, které zde přibyly od vaší poslední návštěvy:'
+        additional_pages_html: "...a <span></span> další"
+        description: 'Stránky, které zde přibyly od vaší poslední návštěvy:'
         title: Nové stránky
       notice: Upozornění
       open_navigation: Otevřít navigaci
@@ -49,7 +49,7 @@ cs-CZ:
         close: Zavřít 360° panorama a zobrazit text
         start: Otevřít 360° panorama
       play_video: Přehrát video
-      scroll_back_indicator: ! ' '
+      scroll_back_indicator: " "
       scroll_down: Scrollujte dolů
       scroll_hint: Procházejte stránky otáčením kolečka myši nebo šipkami na klávesnici
       scroll_indicator: Pokračujte dolů
@@ -58,7 +58,7 @@ cs-CZ:
       scroll_up: Scrollujte nahoru
       share: Sdílejte
       share_on_facebook: Sdílejte na Facebooku
-      share_on_google: ! 'Sdílejte na Google+ '
+      share_on_google: 'Sdílejte na Google+ '
       share_on_twitter: Sdílejte na Twitteru
       share_this_entry: Celý příspěvek
       share_this_page: Přímo tuto stránku

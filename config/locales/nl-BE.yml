@@ -6,7 +6,7 @@ nl-BE:
       back: Terug
       before_after:
         hint: Voor / na weergave
-        leave_view: ! 'Verlaat de voor / na weergave '
+        leave_view: 'Verlaat de voor / na weergave '
         start: Start de voor / na weergave
         start_title: Start de voor / na weergave
       chapter: Hoofdstuk
@@ -16,7 +16,7 @@ nl-BE:
       close_hint: Hint sluiten
       close_navigation: Navigatie sluiten
       close_overview: Overzicht sluiten
-      deprecated_browser: <p>Uw browser is verouderd en deze pagina werkt mogelijk niet zoals verwacht. We raden u aan uw browser te upgraden naar de nieuwste versie.<p>
+      deprecated_browser: "<p>Uw browser is verouderd en deze pagina werkt mogelijk niet zoals verwacht. We raden u aan uw browser te upgraden naar de nieuwste versie.<p>"
       embedded_video:
         leave_video: Ingesloten video verlaten
       enlarge_view: Weergave vergroten
@@ -38,8 +38,8 @@ nl-BE:
       navigate_top: Ga naar eerste pagina
       navigation: Navigatie
       new_pages_box:
-        additional_pages_html: … en <span></span> meer
-        description: ! 'Sinds uw laatste bezoek werden er pagina’s toegevoegd aan deze Pageflow:'
+        additional_pages_html: "… en <span></span> meer"
+        description: 'Sinds uw laatste bezoek werden er pagina’s toegevoegd aan deze Pageflow:'
         title: Nieuwe pagina’s
       notice: Opmerking
       open_navigation: Navigatie openen

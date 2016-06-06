@@ -16,7 +16,7 @@ en:
       close_hint: Close hint
       close_navigation: Close navigation
       close_overview: Close overview
-      deprecated_browser: <p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>
+      deprecated_browser: "<p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>"
       embedded_video:
         leave_video: Leave embedded video
       enlarge_view: Enlarge view
@@ -38,8 +38,8 @@ en:
       navigate_top: Goto first page
       navigation: Navigation
       new_pages_box:
-        additional_pages_html: ! '...and <span></span> more'
-        description: ! 'Since your last visit, pages have been added to this pageflow:'
+        additional_pages_html: "...and <span></span> more"
+        description: 'Since your last visit, pages have been added to this pageflow:'
         title: New Pages
       notice: Notice
       open_navigation: Open navigation
@@ -49,7 +49,7 @@ en:
         close: Close 360° panorama and display text
         start: Start 360° panorama
       play_video: Play video
-      scroll_back_indicator: ! ' '
+      scroll_back_indicator: " "
       scroll_down: Scroll down
       scroll_hint: Use the mouse wheel or the arrow keys on your keyboard to navigate between pages.
       scroll_indicator: Scroll down to continue

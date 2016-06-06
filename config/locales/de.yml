@@ -15,8 +15,8 @@ de:
       close: Schließen
       close_hint: Hinweis schließen
       close_navigation: Navigation schließen
-      close_overview: Übersicht schließen
-      deprecated_browser: <p>Liebe Nutzer,</p><p>leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.</p>
+      close_overview: "Übersicht schließen"
+      deprecated_browser: "<p>Liebe Nutzer,</p><p>leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.</p>"
       embedded_video:
         leave_video: Eingebettetes Video verlassen
       enlarge_view: Ansicht vergrößern
@@ -38,18 +38,18 @@ de:
       navigate_top: Zum Anfang
       navigation: Navigation
       new_pages_box:
-        additional_pages_html: ! '...und <span></span> weitere'
-        description: ! 'Seit dem letzten Besuch wurden diesem Pageflow neue Seiten hinzugefügt:'
+        additional_pages_html: "...und <span></span> weitere"
+        description: 'Seit dem letzten Besuch wurden diesem Pageflow neue Seiten hinzugefügt:'
         title: Neue Seiten
       notice: Hinweis
       open_navigation: Navigation öffnen
-      open_overview: Übersicht öffnen
-      overview: Übersicht
+      open_overview: "Übersicht öffnen"
+      overview: "Übersicht"
       panorama:
         close: 360°-Ansicht verlassen und Text einblenden
         start: 360°-Ansicht starten
       play_video: Video ansehen
-      scroll_back_indicator: ! ' '
+      scroll_back_indicator: " "
       scroll_down: Runter scrollen
       scroll_hint: Mit dem Mausrad oder den Pfeiltasten auf der Tastatur wird die jeweils nächste Kapitelseite aufgerufen.
       scroll_indicator: Scrollen, um weiterzulesen

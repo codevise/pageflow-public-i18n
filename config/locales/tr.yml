@@ -16,16 +16,16 @@ tr:
       close_hint: Ipucunu kapat
       close_navigation: Gezinimi kapat
       close_overview: Görünümü kapat
-      deprecated_browser: <p>Internet tarayıcınız malesef gündem dışı. Bundan dolayı sayfanın içerigi düzgün şekilde görüntülenemiyor.  Lütfen tarayıcınızı güncelleyin.</p>
+      deprecated_browser: "<p>Internet tarayıcınız malesef gündem dışı. Bundan dolayı sayfanın içerigi düzgün şekilde görüntülenemiyor.  Lütfen tarayıcınızı güncelleyin.</p>"
       embedded_video:
         leave_video: Gömülü videodan ayrıl
       enlarge_view: Görünümü büyüt
       enter_fullscreen: Tam ekran
-      first_page: İlk sayfa
-      forward: İleri
+      first_page: "İlk sayfa"
+      forward: "İleri"
       fullscreen: Tam ekran
-      goto_first_page: İlk sayfaya git
-      goto_top: İlk sayfaya git
+      goto_first_page: "İlk sayfaya git"
+      goto_top: "İlk sayfaya git"
       hide_text: Metni sakla
       home: Başlat
       imprint: Künye
@@ -35,11 +35,11 @@ tr:
       logo: Logo
       mute_off: Sesi aç
       mute_on: Sesi kapat
-      navigate_top: İlk sayfaya git
+      navigate_top: "İlk sayfaya git"
       navigation: Navigasyon
       new_pages_box:
-        additional_pages_html: ! '...ve <span></span> daha'
-        description: ! 'Son ziyaretinizden bu yana Pageflow''a eklenenler:'
+        additional_pages_html: "...ve <span></span> daha"
+        description: 'Son ziyaretinizden bu yana Pageflow''a eklenenler:'
         title: Yeni sayfalar
       notice: Bildirim
       open_navigation: Navigasyonu aç
@@ -64,7 +64,7 @@ tr:
       share_this_page: Bu sayfa
       show_home: Başlangıç
       show_text: Metni göster
-      skip_links_content: İçeriğe git
+      skip_links_content: "İçeriğe git"
       skip_links_navigation: Navigasyona git
       skip_links_top_navigation: Ana navigasyona git
       sound_hint: Bu çoklu ortamlı hikaye formatı ses ve video görüntüsü kullanmakta. Lütfen kolonlarınızın çalışır vaziyette olduguna dair emin olun.

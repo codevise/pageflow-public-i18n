@@ -1,0 +1,74 @@
+sr:
+  pageflow:
+    public:
+      _language: 
+      audio: Zvuk
+      back: Nazad
+      before_after:
+        hint: 'Pre/Posle '
+        leave_view: 
+        start: 
+        start_title: 
+      chapter: Poglavlje
+      chart:
+        toggle: Toggle
+      close: Zatvori
+      close_hint: Zatvori hint
+      close_navigation: Zatvori navigaciju
+      close_overview: Zatvori overview
+      deprecated_browser: "<p>Vaš pretraživač je zastareo, ova strana neće raditi kako je planirano. Preporučujemo da skinete poslednju verziju pretraživača.</p>"
+      embedded_video:
+        leave_video: 
+      enlarge_view: 
+      enter_fullscreen: Prikaži preko celog ekrana
+      first_page: Početna strana
+      forward: Napred
+      fullscreen: Ceo ekran
+      goto_first_page: Nazad na početnu stranu
+      goto_top: 
+      hide_text: 
+      home: 
+      imprint: 
+      javascript_hint: 
+      leave_fullscreen: 
+      lets_go: 
+      logo: 
+      mute_off: 
+      mute_on: 
+      navigate_top: 
+      navigation: 
+      new_pages_box:
+        additional_pages_html: 
+        description: 
+        title: 
+      notice: 
+      open_navigation: 
+      open_overview: 
+      overview: 
+      panorama:
+        close: 
+        start: 
+      play_video: 
+      scroll_back_indicator: 
+      scroll_down: 
+      scroll_hint: 
+      scroll_indicator: 
+      scroll_left: 
+      scroll_right: 
+      scroll_up: 
+      share: 
+      share_on_facebook: 
+      share_on_google: 
+      share_on_twitter: 
+      share_this_entry: 
+      share_this_page: 
+      show_home: 
+      show_text: 
+      skip_links_content: 
+      skip_links_navigation: 
+      skip_links_top_navigation: 
+      sound_hint: 
+      swipe_hint: 
+      swipe_indicator: 
+      video: 
+      volume: 
