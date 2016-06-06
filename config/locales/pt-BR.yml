@@ -4,6 +4,7 @@ pt-BR:
       _language: Português brasileiro
       audio: Audio
       back: Voltar
+      back_to_chapter: Voltar à capítulo
       before_after:
         hint: Visão antes/depois
         leave_view: Deixar visão antes/depois

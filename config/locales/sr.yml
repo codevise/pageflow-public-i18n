@@ -4,6 +4,7 @@ sr:
       _language: 
       audio: Zvuk
       back: Nazad
+      back_to_chapter: Nazad na delu
       before_after:
         hint: 'Pre/Posle '
         leave_view: 

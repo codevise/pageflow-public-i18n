@@ -4,6 +4,7 @@ en:
       _language: English
       audio: Audio
       back: Back
+      back_to_chapter: Back to chapter
       before_after:
         hint: Before/after view
         leave_view: Leave before/after view

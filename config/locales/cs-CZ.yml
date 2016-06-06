@@ -4,6 +4,7 @@ cs-CZ:
       _language: "Česky"
       audio: Zvuk
       back: Zpět
+      back_to_chapter: Zpět do sekce
       before_after:
         hint: Zobrazení před/po
         leave_view: Opustit zobrazení před/po

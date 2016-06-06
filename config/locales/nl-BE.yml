@@ -4,6 +4,7 @@ nl-BE:
       _language: Nederlands
       audio: Audio
       back: Terug
+      back_to_chapter: Terug naar hoofdstuk
       before_after:
         hint: Voor / na weergave
         leave_view: 'Verlaat de voor / na weergave '

@@ -4,6 +4,7 @@ tr:
       _language: Türkçe
       audio: Ses
       back: Geri
+      back_to_chapter: Arka bölüme
       before_after:
         hint: Geri/İleri
         leave_view: Geri/İleri ve metin açılması

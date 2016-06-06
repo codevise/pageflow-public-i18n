@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.1.0
+
+2016-06-06
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.0.2...v1.1.0)
+
+- New key: `pageflow.public.back_to_chapter`.
+
 ### Version 1.0.2
 
 2016-02-15

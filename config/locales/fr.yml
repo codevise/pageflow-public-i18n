@@ -4,6 +4,7 @@ fr:
       _language: Français
       audio: Audio
       back: Précédent
+      back_to_chapter: Retour à chapitre
       before_after:
         hint: Affichage "avant/après"
         leave_view: Quitter l'affichage "avant/après"
