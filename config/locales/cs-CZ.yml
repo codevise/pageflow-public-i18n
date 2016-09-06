@@ -69,6 +69,8 @@ cs-CZ:
       skip_links_navigation: Přejít k navigaci
       skip_links_top_navigation: Na hlavní navigaci
       sound_hint: Tato multimediální reportáž obsahuje zvukovou stopu. Máte zapnuté reproduktory, případně nasazená sluchátka?
+      start_audio: Start audio now
+      start_video: Start video now
       swipe_hint: Listujte tahem prstu po obrazovce
       swipe_indicator: Pokračujte tahem prstu
       video: Video

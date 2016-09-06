@@ -69,6 +69,8 @@ de:
       skip_links_navigation: Zur Seitennavigation
       skip_links_top_navigation: Zur Dachnavigation
       sound_hint: Für dieses multimediale Reportage-Format nutzen wir neben Texten und Fotos auch Audios und Videos. Daher sollten die Lautsprecher des Systems eingeschaltet sein.
+      start_audio: Audio jetzt starten
+      start_video: Video jetzt starten
       swipe_hint: Durch Wischen wird die jeweils nächste Kapitelseite aufgerufen.
       swipe_indicator: Wischen, um Text einzublenden
       video: Video

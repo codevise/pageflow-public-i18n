@@ -69,6 +69,8 @@ tr:
       skip_links_navigation: Navigasyona git
       skip_links_top_navigation: Ana navigasyona git
       sound_hint: Bu çoklu ortamlı hikaye formatı ses ve video görüntüsü kullanmakta. Lütfen kolonlarınızın çalışır vaziyette olduguna dair emin olun.
+      start_audio: Start audio now
+      start_video: Start video now
       swipe_hint: Sayfalar arası navigasyon için swipe ediniz
       swipe_indicator: Devami icin swipe ediniz
       video: Video

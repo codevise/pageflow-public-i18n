@@ -69,6 +69,8 @@ sr:
       skip_links_navigation: 
       skip_links_top_navigation: 
       sound_hint: 
+      start_audio: Start audio now
+      start_video: Start video now
       swipe_hint: 
       swipe_indicator: 
       video: 

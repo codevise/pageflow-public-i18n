@@ -69,6 +69,8 @@ en:
       skip_links_navigation: Goto navigation
       skip_links_top_navigation: Goto main navigation
       sound_hint: This multimedia story format uses video and audio footage. Please make sure your speakers are turned on.
+      start_audio: Start audio now
+      start_video: Start video now
       swipe_hint: Swipe to navigate between pages.
       swipe_indicator: Swipe to continue
       video: Video

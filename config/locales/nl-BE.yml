@@ -1,7 +1,7 @@
 nl-BE:
   pageflow:
     public:
-      _language: Nederlands
+      _language: Nederlands (België)
       audio: Audio
       back: Terug
       back_to_chapter: Terug naar hoofdstuk
@@ -69,6 +69,8 @@ nl-BE:
       skip_links_navigation: Ga naar navigatie
       skip_links_top_navigation: Ga naar hoofdnavigatie
       sound_hint: Dit multimediaverhaal gebruikt video- en audioclips. Ga na of uw luidsprekers ingeschakeld zijn.
+      start_audio: Start audio now
+      start_video: Start video now
       swipe_hint: Vegen om tussen pagina‘s te navigeren
       swipe_indicator: Vegen om verder te gaan
       video: Video

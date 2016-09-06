@@ -69,6 +69,8 @@ fr:
       skip_links_navigation: Accéder à la navigation
       skip_links_top_navigation: Accéder à la navigation principale
       sound_hint: Ce format d’histoire multimédia utilise du contenu audio et vidéo. Veuillez vérifier que vos haut-parleurs sont allumés.
+      start_audio: Démarrer Audio maintenant
+      start_video: Démarrer la vidéo maintenant
       swipe_hint: Balayer pour parcourir les pages.
       swipe_indicator: Balayer pour continuer
       video: Video
