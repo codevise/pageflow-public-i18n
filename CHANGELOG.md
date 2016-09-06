@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.2.0
+
+2016-09-06
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.1.0...v1.2.0)
+
+- New keys: `pageflow.public.start_audio`, `pageflow.public.start_video`.
+- Added locale `nl`.
+
 ### Version 1.1.0
 
 2016-06-06
