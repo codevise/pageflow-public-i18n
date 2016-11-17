@@ -1,16 +1,16 @@
 sr:
   pageflow:
     public:
-      _language: 
+      _language: Srpski
       audio: Zvuk
       back: Nazad
-      back_to_chapter: Nazad na delu
+      back_to_chapter: Nazad na sekciju
       before_after:
-        hint: 'Pre/Posle '
-        leave_view: 
-        start: 
-        start_title: 
-      chapter: Poglavlje
+        hint: Pre/Posle stranice
+        leave_view: Napusti pre/posle stranice
+        start: Start pre/posle stranice
+        start_title: Start pre/posle stranice
+      chapter: Sekcija
       chart:
         toggle: Toggle
       close: Zatvori
@@ -19,59 +19,59 @@ sr:
       close_overview: Zatvori overview
       deprecated_browser: "<p>Vaš pretraživač je zastareo, ova strana neće raditi kako je planirano. Preporučujemo da skinete poslednju verziju pretraživača.</p>"
       embedded_video:
-        leave_video: 
-      enlarge_view: 
+        leave_video: Napusti embedovan video
+      enlarge_view: Uvecati stranicu
       enter_fullscreen: Prikaži preko celog ekrana
       first_page: Početna strana
       forward: Napred
       fullscreen: Ceo ekran
-      goto_first_page: Nazad na početnu stranu
-      goto_top: 
-      hide_text: 
-      home: 
-      imprint: 
-      javascript_hint: 
-      leave_fullscreen: 
-      lets_go: 
-      logo: 
-      mute_off: 
-      mute_on: 
-      navigate_top: 
-      navigation: 
+      goto_first_page: Idi na početnu stranicu
+      goto_top: Idi na prvu stranicu
+      hide_text: Sakrij tekst
+      home: Start
+      imprint: Imprint
+      javascript_hint: Ova aplikacija koristi Javascript za poboljšanu funkcionalnost i korisnički interfejs. Vaš browser ne podržava JavaScript ili je možda isključen.
+      leave_fullscreen: Napusti fullscreen mode
+      lets_go: Idemo
+      logo: Logo
+      mute_off: Unmute
+      mute_on: Mute
+      navigate_top: Idi na prvu stranicu
+      navigation: Navigacija
       new_pages_box:
-        additional_pages_html: 
-        description: 
-        title: 
-      notice: 
-      open_navigation: 
-      open_overview: 
-      overview: 
+        additional_pages_html: "...i <span></span> dalje"
+        description: 'Od vaše poslednje posete, stranice su dodate u ovaj pageflow:'
+        title: Nove Stranice
+      notice: Beleška
+      open_navigation: Otvori navigaciju
+      open_overview: Otvori detaljan pregled
+      overview: Overview
       panorama:
-        close: 
-        start: 
-      play_video: 
-      scroll_back_indicator: 
-      scroll_down: 
-      scroll_hint: 
-      scroll_indicator: 
-      scroll_left: 
-      scroll_right: 
-      scroll_up: 
-      share: 
-      share_on_facebook: 
-      share_on_google: 
-      share_on_twitter: 
-      share_this_entry: 
-      share_this_page: 
-      show_home: 
-      show_text: 
-      skip_links_content: 
-      skip_links_navigation: 
-      skip_links_top_navigation: 
-      sound_hint: 
+        close: Zatvori 360° panoramu i tekst
+        start: Start 360° panoramu
+      play_video: Play video
+      scroll_back_indicator: " "
+      scroll_down: Skroluj dole
+      scroll_hint: Koristi točkić na mišu ili strelice na tastaturi i koristite navigaciju.
+      scroll_indicator: Skroluj dole za nastavak
+      scroll_left: Skroluj levo
+      scroll_right: Skroluj desno
+      scroll_up: Skroluj gore
+      share: Share
+      share_on_facebook: Share on Facebook
+      share_on_google: Share on Google+
+      share_on_twitter: Share on Twitter
+      share_this_entry: Ovaj story
+      share_this_page: Ova stranica
+      show_home: Start
+      show_text: Prikaži tekst
+      skip_links_content: Idi na sekciju
+      skip_links_navigation: Idi na navigaciju
+      skip_links_top_navigation: Idi na glavnu navigaciju
+      sound_hint: Ovaj format multimedia story koristi video i audio sadržaj. Molimo vas obratite pažnju da li su vam uključeni zvučnici.
       start_audio: Start audio now
       start_video: Start video now
-      swipe_hint: 
-      swipe_indicator: 
-      video: 
-      volume: 
+      swipe_hint: Swipe za navigaciju između strana.
+      swipe_indicator: Swipe za nastavak
+      video: Video
+      volume: Zvuk

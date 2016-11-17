@@ -1,7 +1,7 @@
 cs-CZ:
   pageflow:
     public:
-      _language: "Česky"
+      _language: Česky
       audio: Zvuk
       back: Zpět
       back_to_chapter: Zpět do sekce

@@ -16,7 +16,7 @@ de:
       close: Schließen
       close_hint: Hinweis schließen
       close_navigation: Navigation schließen
-      close_overview: "Übersicht schließen"
+      close_overview: Übersicht schließen
       deprecated_browser: "<p>Liebe Nutzer,</p><p>leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.</p>"
       embedded_video:
         leave_video: Eingebettetes Video verlassen
@@ -44,8 +44,8 @@ de:
         title: Neue Seiten
       notice: Hinweis
       open_navigation: Navigation öffnen
-      open_overview: "Übersicht öffnen"
-      overview: "Übersicht"
+      open_overview: Übersicht öffnen
+      overview: Übersicht
       panorama:
         close: 360°-Ansicht verlassen und Text einblenden
         start: 360°-Ansicht starten
