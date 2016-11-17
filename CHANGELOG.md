@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### Version 1.3.0
+
+2016-11-17
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.2.0...v1.3.0)
+
+- Added locale `es` (Spanish).
+- Added locale `gn` (Guarani).
+- Added locale `sr` (Serbian).
+
 ### Version 1.2.0
 
 2016-09-06
