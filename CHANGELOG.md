@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.4.0
+
+2016-12-06
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.3.0...v1.4.0)
+
+- Added locale `el` (Greek).
+- Added locale `rm` (Romansh).
+
 ### Version 1.3.0
 
 2016-11-17
