@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.5.0
+
+2017-02-20
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.4.0...v1.5.0)
+
+- Added locale `ru-RU` (Russian).
+- Fixes in `el` and `rm` locales.
+
 ### Version 1.4.0
 
 2016-12-06
