@@ -1,0 +1,77 @@
+pl-PL:
+  pageflow:
+    public:
+      _language: Polski
+      audio: audio
+      back: powrót
+      back_to_chapter: powrót do rozdziału
+      before_after:
+        hint: przed
+        leave_view: po podgląd i pokaż  tekst
+        start: po podgląd
+        start_title: po podgląd
+      chapter: rozdział
+      chart:
+        toggle: powiększ lub pomniejsz podgląd
+      close: zamknij
+      close_hint: zamknij wskazówkę
+      close_navigation: zamknij nawigację
+      close_overview: zamknij przegląd
+      deprecated_browser: "<p> Szanowny uzytkowniku, </p><p>niestety używasz starej wersji przeglądarki, dlatego przygotowane treści nie  mogą być pokazane prawidłowo.  Prosimy zaktualizować do nowej wersji.</p>"
+      embedded_video:
+        leave_video: opuść wbudowane video
+      enlarge_view: powiększ podgląd
+      enter_fullscreen: pełny ekran
+      first_page: pierwsza strona
+      forward: do przodu
+      fullscreen: pełny ekran
+      goto_first_page: do pierwszej strony
+      goto_top: do początku
+      hide_text: ukryj tekst
+      home: strona główna
+      imprint: nota
+      javascript_hint: Dla poprawnego działania strony potrzebujesz JavaScript.
+      leave_fullscreen: zakończ odtwarzanie w pełnym ekranie
+      lets_go: 'rozpocznij '
+      logo: logo
+      mute_off: włącz dźwięk
+      mute_on: wyłącz dźwięk
+      navigate_top: do początku
+      navigation: nawigacja
+      new_pages_box:
+        additional_pages_html: "...oraz <span></span>kolejne"
+        description: 'Od ostatniej wizyty to  Pageflow  zostały dodane nowe strony:'
+        title: nowe strony
+      notice: wskazówka
+      open_navigation: otwórz nawigację
+      open_overview: otwórz przegląd
+      overview: przegląd
+      panorama:
+        close: opuść widok 360° i pokaż tekst
+        start: otwórz  widok 360°
+      play_video: odtwórz video
+      scroll_back_indicator: przewijanie wstecz
+      scroll_down: przewiń niżej
+      scroll_hint: Poprzez mysz lub strzałki na klawiaturze  zostanie przywołany kolejny rodział strony.
+      scroll_indicator: przewiń aby czytać dalej
+      scroll_left: przewiń w lewo
+      scroll_right: przewiń w prawo
+      scroll_up: przewiń do góry
+      share: udostępnij
+      share_on_facebook: udostępnij  w facebook
+      share_on_google: udostępnij w google
+      share_on_twitter: udostępnij w twitter
+      share_this_entry: udsotępnij
+      share_this_page: udostępnij stronę
+      show_home: do strony głównej
+      show_text: pokaż tekst
+      skip_links_content: " do treści "
+      skip_links_navigation: 'do nawigacji strony '
+      skip_links_top_navigation: do nawigacji górnej
+      sound_hint: W tym formacie reportażu udostępniamy obok zdjęć i treści również dźwięk , dlatego prosimy o odpowiednie uistawienie głośników w systemie.
+      start_audio: włącz dźwięk
+      start_video: rozpocznij video
+      swipe_hint: przesunięcie spowoduje przejście do kolejnego rozdziału
+      swipe_indicator: przesuń aby zobaczyć tekst
+      video: " video"
+      volume: głośność
