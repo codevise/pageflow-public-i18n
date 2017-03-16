@@ -2,6 +2,15 @@
 
 ### Version 1.5.0
 
+2017-03-16
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.5.0...v1.6.0)
+
+- Added locale `it` (Italian).
+- Added locale `pl-PL` (Polish).
+
+### Version 1.5.0
+
 2017-02-20
 
 [Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.4.0...v1.5.0)
