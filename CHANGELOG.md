@@ -1,6 +1,19 @@
 # CHANGELOG
 
-### Version 1.5.0
+### Version 1.7.0
+
+2017-03-31
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.6.0...v1.7.0)
+
+- Added locale `bg` (Bulgarian).
+- Added locale `id` (Indonesian).
+- Added locale `ms` (Malay).
+- Added locale `zh` (Chinese).
+- Improved `de` locale.
+- Improved `pl-PL` locale.
+
+### Version 1.6.0
 
 2017-03-16
 
