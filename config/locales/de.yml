@@ -7,7 +7,7 @@ de:
       back_to_chapter: Zurück zu Kapitel
       before_after:
         hint: Vorher/Nacher Ansicht
-        leave_view: Vorher/Nachher-Ansicht verlassen und Text einblenden
+        leave_view: Vorher/Nachher-Ansicht verlassen
         start: Vorher/Nachher-Ansicht starten
         start_title: Vorher/Nachher-Ansicht starten
       chapter: Kapitel
