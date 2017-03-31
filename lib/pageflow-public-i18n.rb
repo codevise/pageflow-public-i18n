@@ -5,6 +5,7 @@ module Pageflow
   module PublicI18n
     def self.available_locales
       [
+        :bg,
         :'cs-CZ',
         :de,
         :el,
@@ -12,7 +13,9 @@ module Pageflow
         :es,
         :fr,
         :gn,
+        :id,
         :it,
+        :ms,
         :nl,
         :'nl-BE',
         :'pl-PL',
@@ -20,7 +23,8 @@ module Pageflow
         :rm,
         :'ru-RU',
         :sr,
-        :tr
+        :tr,
+        :zh
       ]
     end
   end
