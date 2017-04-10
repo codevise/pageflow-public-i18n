@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.8.0
+
+2017-04-10
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.7.0...v1.8.0)
+
+- New key: `pageflow.public.before_after.drag_hint`.
+
 ### Version 1.7.0
 
 2017-03-31
