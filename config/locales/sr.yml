@@ -6,6 +6,7 @@ sr:
       back: Nazad
       back_to_chapter: Nazad na sekciju
       before_after:
+        drag_hint: 
         hint: Pre/Posle stranice
         leave_view: Napusti pre/posle stranice
         start: Start pre/posle stranice

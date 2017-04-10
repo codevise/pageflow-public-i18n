@@ -6,6 +6,7 @@ rm:
       back: Enavos
       back_to_chapter: Enavos al chapitel
       before_after:
+        drag_hint: 
         hint: Vista avant/suenter
         leave_view: Sortir da la vista avant/suenter
         start: Cumenzar cun vista avant/suenter

@@ -6,6 +6,7 @@ pt-BR:
       back: Voltar
       back_to_chapter: Voltar à capítulo
       before_after:
+        drag_hint: 
         hint: Visão antes/depois
         leave_view: Deixar visão antes/depois
         start: Iniciar visão antes/depois

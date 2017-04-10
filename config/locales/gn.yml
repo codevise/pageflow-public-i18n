@@ -6,6 +6,7 @@ gn:
       back: Eju jey
       back_to_chapter: Eju jey kapítulope
       before_after:
+        drag_hint: 
         hint: Re hecha anteve/upéi rire
         leave_view: Re sé hagũa la anteve/upéi rire gui
         start: Emo ñepyrũ hagũa anteve/upéi rire

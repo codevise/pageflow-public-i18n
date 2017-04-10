@@ -6,6 +6,7 @@ bg:
       back: Назад
       back_to_chapter: Назад към раздел
       before_after:
+        drag_hint: 
         hint: Изглед преди/след
         leave_view: Излез от изглед преди/след
         start: Стартирай изглед преди/след

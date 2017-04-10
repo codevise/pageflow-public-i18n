@@ -6,6 +6,7 @@ ms:
       back: Kembali
       back_to_chapter: Kebali ke bab
       before_after:
+        drag_hint: 
         hint: Paparan sebelum/selepas
         leave_view: Tinggalkan paparan sebelum/selepas
         start: Mulakan paparan sebelum/selepas

@@ -6,6 +6,7 @@ fa-IR:
       back: بازگشت
       back_to_chapter: برگشت به فصل
       before_after:
+        drag_hint: 
         hint: قبل / بعد از نمایش
         leave_view: ترک قبل / بعد از نمایش
         start: شروع قبل / بعد از نمایش

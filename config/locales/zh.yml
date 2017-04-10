@@ -6,6 +6,7 @@ zh:
       back: 返回
       back_to_chapter: 返回章节
       before_after:
+        drag_hint: 
         hint: 前/后 查看
         leave_view: 离开 前/后 查看
         start: 开始 前/后 查看

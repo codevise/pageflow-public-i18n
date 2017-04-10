@@ -6,6 +6,7 @@ cs-CZ:
       back: Zpět
       back_to_chapter: Zpět do sekce
       before_after:
+        drag_hint: 
         hint: Zobrazení před/po
         leave_view: Opustit zobrazení před/po
         start: Spustit zobrazení před/po

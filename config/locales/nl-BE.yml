@@ -6,6 +6,7 @@ nl-BE:
       back: Terug
       back_to_chapter: Terug naar hoofdstuk
       before_after:
+        drag_hint: 
         hint: Voor / na weergave
         leave_view: 'Verlaat de voor / na weergave '
         start: Start de voor / na weergave

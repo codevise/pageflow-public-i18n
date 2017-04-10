@@ -6,6 +6,7 @@ el:
       back: Πίσω
       back_to_chapter: Πίσω στο κεφάλαιο
       before_after:
+        drag_hint: 
         hint: Πριν/μετα προβολή
         leave_view: Αποχώριση πριν/μετα προβολή
         start: Εκκίνιση πριν/μετα προβολή

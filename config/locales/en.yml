@@ -6,11 +6,11 @@ en:
       back: Back
       back_to_chapter: Back to chapter
       before_after:
+        drag_hint: Press the left mouse button and move left or right
         hint: Before/after view
         leave_view: Leave before/after view
         start: Start before/after view
         start_title: Start before/after view
-        drag_hint: Press the left mouse button and move left or right
       chapter: Chapter
       chart:
         toggle: Toggle

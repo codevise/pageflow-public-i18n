@@ -6,6 +6,7 @@ pl-PL:
       back: Powrót
       back_to_chapter: Powrót do rozdziału
       before_after:
+        drag_hint: 
         hint: Przed/po widoku
         leave_view: Po podgląd i pokaż  tekst
         start: Start widok przed/po

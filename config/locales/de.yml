@@ -6,11 +6,11 @@ de:
       back: Zurück
       back_to_chapter: Zurück zu Kapitel
       before_after:
+        drag_hint: Linke Maustaste drücken und nach links oder rechts ziehen
         hint: Vorher/Nacher Ansicht
         leave_view: Vorher/Nachher-Ansicht verlassen
         start: Vorher/Nachher-Ansicht starten
         start_title: Vorher/Nachher-Ansicht starten
-        drag_hint: Linke Maustaste drücken und nach links oder rechts ziehen
       chapter: Kapitel
       chart:
         toggle: Ansicht vergrößern bzw. verkleinern

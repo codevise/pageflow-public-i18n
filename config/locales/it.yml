@@ -6,6 +6,7 @@ it:
       back: indietro
       back_to_chapter: ritorno al capitolo
       before_after:
+        drag_hint: 
         hint: visuale prima/dopo
         leave_view: chiudere visuale prima/dopo e visualizzare il testo
         start: aprire la visuale prima/dopo

@@ -6,6 +6,7 @@ fr:
       back: Précédent
       back_to_chapter: Retour à chapitre
       before_after:
+        drag_hint: 
         hint: Affichage "avant/après"
         leave_view: Quitter l'affichage "avant/après"
         start: Lancer l'affichage "avant/après"
