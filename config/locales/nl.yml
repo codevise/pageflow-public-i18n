@@ -10,6 +10,7 @@ nl:
         leave_view: Verlaat de voor/na weergave
         start: Start de voor/na weergave
         start_title: Start de voor/na weergave
+        drag_hint: Linkermuisknop indrukken en naar links of rechts bewegen
       chapter: Hoofdstuk
       chart:
         toggle: In-/uitschakelen
