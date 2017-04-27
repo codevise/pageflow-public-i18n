@@ -6,7 +6,7 @@ cs-CZ:
       back: Zpět
       back_to_chapter: Zpět do sekce
       before_after:
-        drag_hint: 
+        drag_hint: Zmáčkněte levé tlačítko myši a pohybujte se vlevo či vpravo.
         hint: Zobrazení před/po
         leave_view: Opustit zobrazení před/po
         start: Spustit zobrazení před/po
@@ -70,8 +70,8 @@ cs-CZ:
       skip_links_navigation: Přejít k navigaci
       skip_links_top_navigation: Na hlavní navigaci
       sound_hint: Tato multimediální reportáž obsahuje zvukovou stopu. Máte zapnuté reproduktory, případně nasazená sluchátka?
-      start_audio: Start audio now
-      start_video: Start video now
+      start_audio: Poslechněte si
+      start_video: Podívejte se
       swipe_hint: Listujte tahem prstu po obrazovce
       swipe_indicator: Pokračujte tahem prstu
       video: Video
