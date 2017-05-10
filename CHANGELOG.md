@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.9.0
+
+2017-05-10
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.8.1...v1.9.0)
+
+- New keys for text track and media quality settings.
+
 ### Version 1.8.1
 
 2017-04-27
