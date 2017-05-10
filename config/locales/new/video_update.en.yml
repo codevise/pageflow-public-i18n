@@ -1,0 +1,39 @@
+en:
+  pageflow:
+    public:
+      text_track_modes:
+        none: "(None)"
+        auto_off: "Auto (Aus)"
+        auto: "Auto (%{label})"
+      open_audio: "Open audio"
+      open_video: "Open video"
+      text_tracks: "Subtitles"
+      media_quality: "Quality"
+      video_qualities:
+        labels:
+          auto: 'Auto'
+          4k: '2160p'
+          fullhd: '1080p'
+          medium: '720p'
+        annotations:
+          4k: '4K'
+          fullhd: 'HD'
+          medium: 'HD'
+      languages:
+        ar: Arabic
+        cs: Czech
+        de: German
+        dk: Danish
+        el: Greek
+        en: English
+        es: Spanish
+        fr: French
+        it: Italian
+        nl: Dutch
+        pl: Polish
+        pt: Portuguese
+        ru: Russioan
+        sr: Serbian
+        tr: Turkish
+        zh: Chinese
+        unknown: (Unknown)
