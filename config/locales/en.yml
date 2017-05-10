@@ -32,9 +32,28 @@ en:
       home: Start
       imprint: Imprint
       javascript_hint: This application utilizes JavaScript for enhanced functionality and user experience. Your browser may not support JavaScript or it may be disabled.
+      languages:
+        ar: Arabic
+        cs: Czech
+        de: German
+        dk: Danish
+        el: Greek
+        en: English
+        es: Spanish
+        fr: French
+        it: Italian
+        nl: Dutch
+        pl: Polish
+        pt: Portuguese
+        ru: Russioan
+        sr: Serbian
+        tr: Turkish
+        unknown: "(Unknown)"
+        zh: Chinese
       leave_fullscreen: Exit fullscreen mode
       lets_go: Let's go
       logo: Logo
+      media_quality: Quality
       mute_off: Unmute
       mute_on: Mute
       navigate_top: Goto first page
@@ -44,8 +63,10 @@ en:
         description: 'Since your last visit, pages have been added to this pageflow:'
         title: New Pages
       notice: Notice
+      open_audio: Open audio
       open_navigation: Open navigation
       open_overview: Open overview
+      open_video: Open video
       overview: Overview
       panorama:
         close: Close 360° panorama and display text
@@ -74,5 +95,20 @@ en:
       start_video: Start video now
       swipe_hint: Swipe to navigate between pages.
       swipe_indicator: Swipe to continue
+      text_track_modes:
+        auto: Auto (%{label})
+        auto_off: Auto (Aus)
+        none: "(None)"
+      text_tracks: Subtitles
       video: Video
+      video_qualities:
+        annotations:
+          4k: 4K
+          fullhd: HD
+          medium: HD
+        labels:
+          4k: 2160p
+          auto: Auto
+          fullhd: 1080p
+          medium: 720p
       volume: Volume

@@ -32,9 +32,28 @@ fa-IR:
       home: شروع
       imprint: منقوش کردن
       javascript_hint: این نرم افزار با بهره گیری از جاوا اسکریپت برای قابلیت های پیشرفته و تجربه کاربر کار می کند . مرورگر شما ممکن است جاوا اسکریپت را پشتیبانی نکند و یا ممکن است غیر فعال شود.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: خروج از حالت تمام صفحه
       lets_go: بزن بریم
       logo: بوگو / مارک اختصاری
+      media_quality: 
       mute_off: باصدا کردن
       mute_on: قطع صدا
       navigate_top: برو به صفحه اول
@@ -44,8 +63,10 @@ fa-IR:
         description: 'از آخرین بازدید شما،این صفحات به  pageflow اضافه شده است:'
         title: صفحه جدید
       notice: یادداشت
+      open_audio: 
       open_navigation: بازکردن جهت یابی صفحه
       open_overview: بازکردن نمای کلی
+      open_video: 
       overview: نمای کلی
       panorama:
         close: بستن  360 درجه پانوراما و نمایش متن
@@ -74,5 +95,20 @@ fa-IR:
       start_video: شروع پخش تصویری
       swipe_hint: حرکت بین صفحات
       swipe_indicator: حرکت برای ادامه
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: تصویر
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: اندازه (صدا / تصویر)

@@ -6,7 +6,7 @@ zh:
       back: 返回
       back_to_chapter: 返回章节
       before_after:
-        drag_hint: 
+        drag_hint: 拖动提示
         hint: 前/后 查看
         leave_view: 离开 前/后 查看
         start: 开始 前/后 查看
@@ -32,9 +32,28 @@ zh:
       home: 开始
       imprint: 盖章
       javascript_hint: 本应用使用JavaScript工具增强用户体验和功能。您的浏览器不支持JavaScript或者已禁用。
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: 退出全屏
       lets_go: 一起走
       logo: 标志
+      media_quality: 
       mute_off: 取消静音
       mute_on: 静音
       navigate_top: 进入第一页
@@ -44,8 +63,10 @@ zh:
         description: '从你上次访问后，界面已经被加到页面流:'
         title: 新界面
       notice: 通知
+      open_audio: 
       open_navigation: 打开导航
       open_overview: 打开缩略图
+      open_video: 
       overview: 缩略图
       panorama:
         close: 关闭 360° 全景并显示文字
@@ -74,5 +95,20 @@ zh:
       start_video: 立即播放视频
       swipe_hint: 滑动界面间导航
       swipe_indicator: 继续滑动
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: 视频
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: 音量

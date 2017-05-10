@@ -32,9 +32,28 @@ fr:
       home: Commencer
       imprint: Achevé d'imprimer
       javascript_hint: Pour un fonctionnement optimal et une meilleure expérience utilisateur, cette application nécessite l’utilisation de JavaScript. Il se peut que votre navigateur soit incompatible avec JavaScript ou que JavaScript soit désactivé.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Quitter le mode plein écran
       lets_go: Démarrer
       logo: Logo
+      media_quality: 
       mute_off: Désactiver Muet
       mute_on: Muet
       navigate_top: Accéder à la première page
@@ -44,8 +63,10 @@ fr:
         description: 'Depuis votre dernière visite, des pages ont été ajoutées à ce Pageflow:'
         title: Nouvelles pages
       notice: Remarque
+      open_audio: 
       open_navigation: Ouvrir la navigation
       open_overview: Ouvrir l‘aperçu
+      open_video: 
       overview: Aperçu
       panorama:
         close: Fermer le panorama à 360° et afficher le texte
@@ -74,5 +95,20 @@ fr:
       start_video: Démarrer la vidéo maintenant
       swipe_hint: Balayer pour parcourir les pages.
       swipe_indicator: Balayer pour continuer
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Volume

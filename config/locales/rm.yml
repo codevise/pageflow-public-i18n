@@ -32,9 +32,28 @@ rm:
       home: Cumenzar
       imprint: Impressum
       javascript_hint: Questa applicaziun fa diever da JavaScript per dapli funcziuns e che la chaussa saja pli pratica per l'utilisader. Forsa na sustegna Voss browser betg JavaScript ni che JavaScript pudess esser deactivà.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Sortir dal modus da fullscreen
       lets_go: Giaini!
       logo: Logo
+      media_quality: 
       mute_off: Puspè tadlar!
       mute_on: Pssst!
       navigate_top: Ir a l'emprima pagina
@@ -44,8 +63,10 @@ rm:
         description: 'Dapi Voss''ultima visita èn vegnidas agiuntadas paginas a quest pageflow:'
         title: Novas paginas
       notice: Avis
+      open_audio: 
       open_navigation: Avrir navigaziun
       open_overview: Survista averta
+      open_video: 
       overview: Survista
       panorama:
         close: Serrar panorama da 360° e mussar text
@@ -74,5 +95,20 @@ rm:
       start_video: Laschar ir video uss
       swipe_hint: Far vi e nà cun il det per navigar tranter paginas
       swipe_indicator: Far vi e nà cun il det per cuntinuar
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Volumen dal tun

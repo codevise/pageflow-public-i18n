@@ -32,9 +32,28 @@ el:
       home: Αρχική
       imprint: Αποτύπωμα
       javascript_hint: Αυτή η εφαρμογή χρησιμοποιεί JavaScript για καλύτερη απόδοση στον χρήστη. Το πρόγραμμα περιήγησης σας μπορεί να μην υποστηριζει το JavaScript ή να ειναι απενεργοποιημένο.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Έξοδος απο πλήρης οθόνη
       lets_go: Εκκίνηση!
       logo: Λογότυπο
+      media_quality: 
       mute_off: Κατάργηση σίγασης
       mute_on: Σίγαση
       navigate_top: Πήγαινε στην αρχική σελίδα
@@ -44,8 +63,10 @@ el:
         description: 'Απο την τελευταία σας επισκεψη , έχουν προστεθεί μερικές σελίδες στην pageflow:'
         title: Νέες σελίδες
       notice: ειδοποίηση
+      open_audio: 
       open_navigation: Άνοιγμα πλοήγησης
       open_overview: Άνοιγμα επισκόπησης
+      open_video: 
       overview: Επισκόπηση
       panorama:
         close: κλείσιμο 360ᵒ πανοράματος και  απεικονιζόμενου κειμενού
@@ -74,5 +95,20 @@ el:
       start_video: Έναρξή βίντεο τώρα
       swipe_hint: σύρετε την οθόνη για να περιηγηθείτε ανάμεσα στις σελίδες
       swipe_indicator: σύρετε την οθόνη για να συνεχήσετε
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: βίντεο
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Ήχος

@@ -32,9 +32,28 @@ ms:
       home: Mula
       imprint: Tanda
       javascript_hint: Aplikasi ini menggunakan JavaScript untuk mempertingkatkan fungsi dan pengalaman pengguna. Pelayar anda mungkin tidak menyokong JavaScript atau ia telah dimatikan.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Tinggalkan mod paparan penuh
       lets_go: Jom
       logo: Logo
+      media_quality: 
       mute_off: Nyahbisukan
       mute_on: Bisukan
       navigate_top: Pergi ke halaman pertama
@@ -44,8 +63,10 @@ ms:
         description: 'Sejak kunjungan terakhir anda, halaman baru telah ditambah ke Pageflow ini: '
         title: Halaman Baru
       notice: Notis
+      open_audio: 
       open_navigation: Buka navigasi
       open_overview: Buka gambaran umum
+      open_video: 
       overview: Gambaran umum
       panorama:
         close: Tutup panorama 360° dan paparan teks
@@ -74,5 +95,20 @@ ms:
       start_video: Mulakan video sekarang
       swipe_hint: Leret untuk menelusuri antara halaman.
       swipe_indicator: Leret untuk teruskan
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Kelantangan

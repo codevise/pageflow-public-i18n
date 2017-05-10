@@ -32,9 +32,28 @@ tr:
       home: Başlat
       imprint: Künye
       javascript_hint: Bu uygulama geliştirilmiş fonksiyonellik ve kullanıcı deneyimi için JavaScript kullanmakta. Internet tarayıcınız Javascript desteklemiyor veya devre dışı.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Tam ekrandan çık
       lets_go: Hadi başlayalım
       logo: Logo
+      media_quality: 
       mute_off: Sesi aç
       mute_on: Sesi kapat
       navigate_top: İlk sayfaya git
@@ -44,8 +63,10 @@ tr:
         description: 'Son ziyaretinizden bu yana Pageflow''a eklenenler:'
         title: Yeni sayfalar
       notice: Bildirim
+      open_audio: 
       open_navigation: Navigasyonu aç
       open_overview: Görünümü aç
+      open_video: 
       overview: Görünüm
       panorama:
         close: 360 derece görünümü kapat ve metni göster
@@ -74,5 +95,20 @@ tr:
       start_video: Start video now
       swipe_hint: Sayfalar arası navigasyon için swipe ediniz
       swipe_indicator: Devami icin swipe ediniz
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Ses düzeyi

@@ -32,9 +32,28 @@ ru-RU:
       home: Главная
       imprint: Выходные данные
       javascript_hint: Для правильного отображения страницы установите JavaScript.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Выйти из полноэкранного режима
       lets_go: Старт
       logo: Логотип
+      media_quality: 
       mute_off: со звуком
       mute_on: без звука
       navigate_top: Перейти к первой странице
@@ -44,8 +63,10 @@ ru-RU:
         description: 'С момента вашего последнего посещения в этом проекте появились новые страницы:'
         title: Новые страницы
       notice: Примечание
+      open_audio: 
       open_navigation: Открыть навигацию
       open_overview: Открыть обзор
+      open_video: 
       overview: Обзор
       panorama:
         close: Закрыть режим 360° и показать текст
@@ -74,5 +95,20 @@ ru-RU:
       start_video: Воспроизвести видео
       swipe_hint: Проведите пальцем по экрану, чтобы открыть следующую страницу
       swipe_indicator: Проведите пальцем по экрану, чтобы продолжить
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Видео
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Громкость

@@ -32,9 +32,28 @@ pt-BR:
       home: Início
       imprint: Imprimir
       javascript_hint: Essa aplicação utiliza JavaScript para uma melhor funcionalidade e experiência do usuário. Seu navegador talvez não suporte JavaScript ou talvez esteja desabilitado.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Sair de tela cheia
       lets_go: Vamos lá
       logo: Logo
+      media_quality: 
       mute_off: Habilitar som
       mute_on: Mudo
       navigate_top: Topo
@@ -44,8 +63,10 @@ pt-BR:
         description: Desde sua última visita, foram adicionadas novas páginas
         title: Nova página
       notice: Aviso
+      open_audio: 
       open_navigation: Abrir navegação
       open_overview: Abrir visão geral
+      open_video: 
       overview: Visão geral
       panorama:
         close: Fechar panorama 360° e exibir texto
@@ -74,5 +95,20 @@ pt-BR:
       start_video: Start video now
       swipe_hint: Deslize para navegar entre as páginas.
       swipe_indicator: Deslize para continuar
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Vídeo
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Volume

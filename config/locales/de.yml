@@ -32,9 +32,28 @@ de:
       home: Startseite
       imprint: Impressum
       javascript_hint: Zur korrekten Anzeige der Seite benötigen Sie JavaScript.
+      languages:
+        ar: Arabisch
+        cs: Tschechisch
+        de: Deutsch
+        dk: Dänisch
+        el: Griechisch
+        en: Englisch
+        es: Spanisch
+        fr: Französisch
+        it: Italienisch
+        nl: Holländisch
+        pl: Polnisch
+        pt: Portugiesisch
+        ru: Russisch
+        sr: Serbisch
+        tr: Türkisch
+        unknown: "(Unbekannt)"
+        zh: Chinesisch
       leave_fullscreen: Vollbilddarstellung beenden
       lets_go: Los geht's
       logo: Logo
+      media_quality: Qualität
       mute_off: Ton ein
       mute_on: Ton aus
       navigate_top: Zum Anfang
@@ -44,8 +63,10 @@ de:
         description: 'Seit dem letzten Besuch wurden diesem Pageflow neue Seiten hinzugefügt:'
         title: Neue Seiten
       notice: Hinweis
+      open_audio: Audio öffnen
       open_navigation: Navigation öffnen
       open_overview: Übersicht öffnen
+      open_video: Video öffnen
       overview: Übersicht
       panorama:
         close: 360°-Ansicht verlassen und Text einblenden
@@ -74,5 +95,20 @@ de:
       start_video: Video jetzt starten
       swipe_hint: Durch Wischen wird die jeweils nächste Kapitelseite aufgerufen.
       swipe_indicator: Wischen, um Text einzublenden
+      text_track_modes:
+        auto: Auto (%{label})
+        auto_off: Automatisch (Aus)
+        none: Aus
+      text_tracks: Untertitel
       video: Video
+      video_qualities:
+        annotations:
+          4k: 4K
+          fullhd: HD
+          medium: HD
+        labels:
+          4k: 2160p
+          auto: Automatisch
+          fullhd: 1080p
+          medium: 720p
       volume: Lautstärke

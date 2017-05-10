@@ -32,9 +32,28 @@ es:
       home: Inicio
       imprint: Imprimir
       javascript_hint: Esta aplicación utiliza JavaScript para una funcionalidad y experiencia de usuario óptimas. Su browser probablemente no es compatible con JavaScript o ésta función quizá se encuentre inhabilitada.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Abandonar modo de pantalla completa
       lets_go: Comenzemos
       logo: Logo
+      media_quality: 
       mute_off: Abandonar modo silencio
       mute_on: Iniciar modo silencio
       navigate_top: Ir a la primera página
@@ -44,8 +63,10 @@ es:
         description: Desde su última visita han sido añadidas páginas a éste Pageflow
         title: Páginas nuevas
       notice: Nota
+      open_audio: 
       open_navigation: Abrir navegación
       open_overview: Abrir vista general
+      open_video: 
       overview: Vista general
       panorama:
         close: Cerrar vista panorama de 360° y mostrar texto
@@ -74,5 +95,20 @@ es:
       start_video: Iniciar vídeo ahora
       swipe_hint: Deslíze el dedo por la pantalla para navegar entre las páginas.
       swipe_indicator: Deslíze el dedo por la pantalla para continuar
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Vídeo
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Volúmen

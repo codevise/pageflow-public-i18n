@@ -32,9 +32,28 @@ bg:
       home: Старт
       imprint: Отпечатай
       javascript_hint: Това приложение ползва JavaScript за по-добра функционалност и потребителско преживяване. JavaScript може да не се поддържа от Вашия браузър или да е деактивиран.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Излез от режим на цял екран
       lets_go: Да тръгваме
       logo: Лого
+      media_quality: 
       mute_off: Включване на звука
       mute_on: Спиране на звука
       navigate_top: Отиди на първа страница
@@ -44,8 +63,10 @@ bg:
         description: 'След Вашето последно посещение бяха добавени страници към този поток:'
         title: Нови Страници
       notice: Известие
+      open_audio: 
       open_navigation: Отвори навигацията
       open_overview: Отвори прегледа
+      open_video: 
       overview: Преглед
       panorama:
         close: Затвори 360° панорама и покажи текста
@@ -74,5 +95,20 @@ bg:
       start_video: Пусни видеото сега
       swipe_hint: Плъзни за навигация през страниците.
       swipe_indicator: Плъзни за да продължиш
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Видео
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Сила на звука

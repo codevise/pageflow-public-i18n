@@ -32,9 +32,28 @@ id:
       home: Mulai
       imprint: Jejak
       javascript_hint: Aplikasi ini menggunakan JavaScript untuk peningkatan fungsi dan pengalaman pengguna. Peramban anda mungkin tidak mendukung JavaScript atau dinonaktifkan.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Keluar mode layar penuh
       lets_go: Ayo
       logo: Logo
+      media_quality: 
       mute_off: 'Aktifkan bunyi '
       mute_on: Bisukan bunyi
       navigate_top: Pergi ke halaman pertama
@@ -44,8 +63,10 @@ id:
         description: 'Sejak kunjungan terakhir anda, halaman baru telah ditambahkan ke Pageflow ini:'
         title: Halaman baru
       notice: Pemberitahuan
+      open_audio: 
       open_navigation: Buka navigasi
       open_overview: Buka ikhtisar
+      open_video: 
       overview: Gambaran ikhtisar
       panorama:
         close: Tutup panorama 360° dan tampilan teks
@@ -74,5 +95,20 @@ id:
       start_video: Mulai video sekarang
       swipe_hint: Gesek untuk menavigasi antara halaman.
       swipe_indicator: Gesek untuk teruskan.
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Volume

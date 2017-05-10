@@ -32,9 +32,28 @@ gn:
       home: Ñepyrũ
       imprint: Embo haí kuatiápe
       javascript_hint: Ko aplicación oipurú hina JavaScript oiko poräve hagüa ha reipuru porãve hagũa. Ikatú nde navegador itujama ha ndoikoi pype tẽra ikatu oguereko ha reikotevẽ emyandynte.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Emboty la rehechava
       lets_go: Ña ñepyrũ
       logo: Ta’anga
+      media_quality: 
       mute_off: Ehendú jey
       mute_on: Kirirĩ
       navigate_top: Jaha kuatia rogué peteĩpe
@@ -44,8 +63,10 @@ gn:
         description: Nde reho rire, oĩve ko’ape ipyahuva
         title: Kuatia rogué pyahu
       notice: Ñe’ẽ mi
+      open_audio: 
       open_navigation: Emoñepyrũ
       open_overview: Rehecha paité hagũa
+      open_video: 
       overview: Ehecha paité
       panorama:
         close: Emboty ko jehecha paité ha emboñepyrũ ñe’ẽmi
@@ -74,5 +95,20 @@ gn:
       start_video: Emo ñepyrũ rehecha hagũa
       swipe_hint: Ikatú embohasá nde kuãme
       swipe_indicator: Embohasá nde kuã re seguí hagũa
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Ta’angá omyiva
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Ehendú hagũa

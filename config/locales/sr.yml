@@ -32,9 +32,28 @@ sr:
       home: Start
       imprint: Imprint
       javascript_hint: Ova aplikacija koristi Javascript za poboljšanu funkcionalnost i korisnički interfejs. Vaš browser ne podržava JavaScript ili je možda isključen.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: Napusti fullscreen mode
       lets_go: Idemo
       logo: Logo
+      media_quality: 
       mute_off: Unmute
       mute_on: Mute
       navigate_top: Idi na prvu stranicu
@@ -44,8 +63,10 @@ sr:
         description: 'Od vaše poslednje posete, stranice su dodate u ovaj pageflow:'
         title: Nove Stranice
       notice: Beleška
+      open_audio: 
       open_navigation: Otvori navigaciju
       open_overview: Otvori detaljan pregled
+      open_video: 
       overview: Overview
       panorama:
         close: Zatvori 360° panoramu i tekst
@@ -74,5 +95,20 @@ sr:
       start_video: Start video now
       swipe_hint: Swipe za navigaciju između strana.
       swipe_indicator: Swipe za nastavak
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: Zvuk

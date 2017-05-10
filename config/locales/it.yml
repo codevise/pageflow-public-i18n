@@ -32,9 +32,28 @@ it:
       home: inizio
       imprint: " informazioni "
       javascript_hint: Per una corretta visualizzazione della pagina necessita di JavaScript.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
       leave_fullscreen: chiudere schermo intero
       lets_go: si parte
       logo: logo
+      media_quality: 
       mute_off: volume on
       mute_on: volume off
       navigate_top: all’inizio
@@ -44,8 +63,10 @@ it:
         description: 'Dall’ultima visita sono state inserite nuove pagine:'
         title: nuove pagine
       notice: note
+      open_audio: 
       open_navigation: aprire navigazione
       open_overview: aprire anteprima
+      open_video: 
       overview: anteprima
       panorama:
         close: avvio visuale 360° e visualizzare testo
@@ -74,5 +95,20 @@ it:
       start_video: avvio video
       swipe_hint: scorrendo verrà visualizzata la pagina successiva
       swipe_indicator: strisciare a continuare
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
       video: video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
       volume: volume
