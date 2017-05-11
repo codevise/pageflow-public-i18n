@@ -112,3 +112,18 @@ de:
           fullhd: 1080p
           medium: 720p
       volume: Lautstärke
+      vr:
+        no_vr:
+          link: Video in der YouTube-App ansehen
+          text: 360°-Videos können in ihrem Browser nicht angezeigt werden.
+        select_quality: Video-Qualität auswählen
+        start: 360° Video ansehen
+        start_cardboard: Cardboard-Modus starten
+        video_qualities:
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
+        video_quality_annotations:
+          4k: 4K
+          fullhd: HD
+          high: HD

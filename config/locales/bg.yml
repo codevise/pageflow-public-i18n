@@ -112,3 +112,18 @@ bg:
           fullhd: 
           medium: 
       volume: Сила на звука
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

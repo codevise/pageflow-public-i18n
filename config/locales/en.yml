@@ -112,3 +112,18 @@ en:
           fullhd: 1080p
           medium: 720p
       volume: Volume
+      vr:
+        no_vr:
+          link: Show video in Youtube app.
+          text: 360° videos can't be displayed in your browser.
+        select_quality: Choose video quality
+        start: Watch 360° video
+        start_cardboard: Start cardboard mode
+        video_qualities:
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
+        video_quality_annotations:
+          4k: 4K
+          fullhd: HD
+          high: HD
