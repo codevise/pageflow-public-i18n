@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.10.0
+
+2017-05-11
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.9.0...v1.10.0)
+
+- New keys for vr page type.
+
+
 ### Version 1.9.0
 
 2017-05-10
