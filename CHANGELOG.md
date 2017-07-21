@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.10.1
+
+2017-07-21
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.10.0...v1.10.1)
+
+- Make german translations for automatic text tracks more consistent.
+- Fix german word in english translation for automatic text tracks.
+
 ### Version 1.10.0
 
 2017-05-11
@@ -7,7 +16,6 @@
 [Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.9.0...v1.10.0)
 
 - New keys for vr page type.
-
 
 ### Version 1.9.0
 
