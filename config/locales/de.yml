@@ -97,7 +97,7 @@ de:
       swipe_indicator: Wischen, um Text einzublenden
       text_track_modes:
         auto: Auto (%{label})
-        auto_off: Automatisch (Aus)
+        auto_off: Auto (Aus)
         none: Aus
       text_tracks: Untertitel
       video: Video

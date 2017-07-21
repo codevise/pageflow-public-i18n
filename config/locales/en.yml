@@ -97,7 +97,7 @@ en:
       swipe_indicator: Swipe to continue
       text_track_modes:
         auto: Auto (%{label})
-        auto_off: Auto (Aus)
+        auto_off: Auto (Off)
         none: "(None)"
       text_tracks: Subtitles
       video: Video
