@@ -100,6 +100,7 @@ gn:
         auto_off: 
         none: 
       text_tracks: 
+      toggle_info_box: 
       video: Ta’angá omyiva
       video_qualities:
         annotations:

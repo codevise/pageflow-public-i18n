@@ -100,6 +100,7 @@ ru-RU:
         auto_off: 
         none: 
       text_tracks: 
+      toggle_info_box: 
       video: Видео
       video_qualities:
         annotations:

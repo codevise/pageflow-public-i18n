@@ -100,6 +100,7 @@ ms:
         auto_off: 
         none: 
       text_tracks: 
+      toggle_info_box: 
       video: Video
       video_qualities:
         annotations:

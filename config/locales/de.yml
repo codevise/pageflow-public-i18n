@@ -100,6 +100,7 @@ de:
         auto_off: Auto (Aus)
         none: Aus
       text_tracks: Untertitel
+      toggle_info_box: Info Box ein-/ausblenden
       video: Video
       video_qualities:
         annotations:
