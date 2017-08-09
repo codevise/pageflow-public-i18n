@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.11.0
+
+2017-08-09
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.10.1...v1.11.0)
+
+- New key: `pageflow.public.toggle_info_box`.
+
 ### Version 1.10.1
 
 2017-07-21
