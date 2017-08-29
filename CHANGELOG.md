@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.12.0
+
+2017-08-29
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.11.0...v1.12.0)
+
+- New key: `pageflow.public.privacy_notice`.
+
 ### Version 1.11.0
 
 2017-08-09
