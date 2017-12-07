@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.12.1
+
+2017-12-07
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.12.0...v1.12.1)
+
+- Improved `es` locale.
+- Improved `zh` locale.
+
 ### Version 1.12.0
 
 2017-08-29
