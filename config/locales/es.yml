@@ -6,7 +6,7 @@ es:
       back: Volver
       back_to_chapter: Volver al capítulo
       before_after:
-        drag_hint: 
+        drag_hint: Presionar el botón izquierdo y moverse a izquierda o derecha
         hint: Vista antes/después
         leave_view: Abandonar vista antes/después
         start: Iniciar vista antes/después
@@ -33,27 +33,27 @@ es:
       imprint: Imprimir
       javascript_hint: Esta aplicación utiliza JavaScript para una funcionalidad y experiencia de usuario óptimas. Su browser probablemente no es compatible con JavaScript o ésta función quizá se encuentre inhabilitada.
       languages:
-        ar: 
+        ar: Árabe
         cs: 
-        de: 
-        dk: 
-        el: 
-        en: 
-        es: 
-        fr: 
-        it: 
-        nl: 
-        pl: 
-        pt: 
-        ru: 
-        sr: 
-        tr: 
-        unknown: 
-        zh: 
+        de: Alemán
+        dk: Danés
+        el: Griego
+        en: Inglés
+        es: Español
+        fr: Francés
+        it: Italiano
+        nl: Holandés
+        pl: Polaco
+        pt: Portugués
+        ru: Ruso
+        sr: Serbio
+        tr: Turco
+        unknown: Desconocido
+        zh: Chino
       leave_fullscreen: Abandonar modo de pantalla completa
-      lets_go: Comenzemos
+      lets_go: Comencemos
       logo: Logo
-      media_quality: 
+      media_quality: Calidad
       mute_off: Abandonar modo silencio
       mute_on: Iniciar modo silencio
       navigate_top: Ir a la primera página
@@ -63,19 +63,19 @@ es:
         description: Desde su última visita han sido añadidas páginas a éste Pageflow
         title: Páginas nuevas
       notice: Nota
-      open_audio: 
+      open_audio: Abrir audio
       open_navigation: Abrir navegación
       open_overview: Abrir vista general
-      open_video: 
+      open_video: Abrir video
       overview: Vista general
       panorama:
         close: Cerrar vista panorama de 360° y mostrar texto
         start: Iniciar vista panorama de 360°
       play_video: Iniciar vídeo
-      privacy_notice: 
+      privacy_notice: Nota privada
       scroll_back_indicator: Desplazarse hacia atrás
       scroll_down: Desplazarse hacia abajo
-      scroll_hint: 'Utilize la rueda de desplazamiento de su ratón o las teclas de dirección de su teclado para navegar entre las páginas. '
+      scroll_hint: Utilice la rueda de desplazamiento de su ratón o las teclas de dirección de su teclado para navegar entre las páginas.
       scroll_indicator: Desplazarse hacia abajo para continuar
       scroll_left: Desplazarse hacia la izquierda
       scroll_right: Desplazarse hacia la derecha
@@ -97,16 +97,16 @@ es:
       swipe_hint: Deslíze el dedo por la pantalla para navegar entre las páginas.
       swipe_indicator: Deslíze el dedo por la pantalla para continuar
       text_track_modes:
-        auto: 
-        auto_off: 
+        auto: Auto (%{label})
+        auto_off: Auto (Apagado)
         none: 
-      text_tracks: 
+      text_tracks: Subtítulos
       toggle_info_box: 
       video: Vídeo
       video_qualities:
         annotations:
-          4k: 
-          fullhd: 
+          4k: 4k
+          fullhd: Alta definición HD
           medium: 
         labels:
           4k: 
@@ -116,10 +116,10 @@ es:
       volume: Volúmen
       vr:
         no_vr:
-          link: 
-          text: 
-        select_quality: 
-        start: 
+          link: Mostrar video en la aplicación de Youtube
+          text: Los videos en 360 grados no pueden mostrarse en este navegador.
+        select_quality: Elegir calidad del video
+        start: Mirar video en 360 grados
         start_cardboard: 
         video_qualities:
           4k: 

@@ -33,27 +33,27 @@ zh:
       imprint: 盖章
       javascript_hint: 本应用使用JavaScript工具增强用户体验和功能。您的浏览器不支持JavaScript或者已禁用。
       languages:
-        ar: 
-        cs: 
-        de: 
-        dk: 
-        el: 
-        en: 
-        es: 
-        fr: 
-        it: 
-        nl: 
-        pl: 
-        pt: 
-        ru: 
-        sr: 
-        tr: 
-        unknown: 
-        zh: 
+        ar: 阿拉伯
+        cs: 捷克
+        de: 德国
+        dk: 丹麦
+        el: 希腊
+        en: 英格兰
+        es: 西班牙
+        fr: 法国
+        it: 意大利
+        nl: 荷兰
+        pl: 波兰
+        pt: 葡萄牙
+        ru: 俄罗斯
+        sr: 塞尔维亚
+        tr: 土耳其
+        unknown: 未知
+        zh: 中国
       leave_fullscreen: 退出全屏
       lets_go: 一起走
       logo: 标志
-      media_quality: 
+      media_quality: 质量
       mute_off: 取消静音
       mute_on: 静音
       navigate_top: 进入第一页
@@ -63,16 +63,16 @@ zh:
         description: '从你上次访问后，界面已经被加到页面流:'
         title: 新界面
       notice: 通知
-      open_audio: 
+      open_audio: 打开音频
       open_navigation: 打开导航
       open_overview: 打开缩略图
-      open_video: 
+      open_video: 打开视频
       overview: 缩略图
       panorama:
         close: 关闭 360° 全景并显示文字
         start: 打开 360° 全景
       play_video: 播放视频
-      privacy_notice: 
+      privacy_notice: 隐私声明
       scroll_back_indicator: " "
       scroll_down: 向下滚动
       scroll_hint: 使用鼠标滚轮或键盘上的方向键进行界面间的切换。
@@ -97,35 +97,35 @@ zh:
       swipe_hint: 滑动界面间导航
       swipe_indicator: 继续滑动
       text_track_modes:
-        auto: 
-        auto_off: 
-        none: 
-      text_tracks: 
-      toggle_info_box: 
+        auto: 自动 (%{label})
+        auto_off: 自动 (关闭)
+        none: "(无)"
+      text_tracks: 子标题
+      toggle_info_box: 切换信息框
       video: 视频
       video_qualities:
         annotations:
-          4k: 
-          fullhd: 
-          medium: 
+          4k: 4K
+          fullhd: 高清
+          medium: 高清
         labels:
-          4k: 
-          auto: 
-          fullhd: 
-          medium: 
+          4k: 2160p
+          auto: 自动
+          fullhd: 1080p
+          medium: 720p
       volume: 音量
       vr:
         no_vr:
-          link: 
-          text: 
-        select_quality: 
-        start: 
-        start_cardboard: 
+          link: 展示视频在Youtube应用
+          text: 您的浏览器不支持播放360°视频
+        select_quality: 选择视频质量
+        start: 观看360°视频
+        start_cardboard: 开启卡片模式
         video_qualities:
-          4k: 
-          fullhd: 
-          high: 
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
         video_quality_annotations:
-          4k: 
-          fullhd: 
-          high: 
+          4k: 4K
+          fullhd: 高清
+          high: 高清
