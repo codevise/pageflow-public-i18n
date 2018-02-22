@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.13.0
+
+2018-02-22
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.12.1...v1.13.0)
+
+- Api method to determine text direction of locale.
+- Added locale `fa-IR`.
+
 ### Version 1.12.1
 
 2017-12-07
