@@ -6,7 +6,7 @@ fr:
       back: Précédent
       back_to_chapter: Retour à chapitre
       before_after:
-        drag_hint: 
+        drag_hint: Appuyez sur le bouton gauche de la souris et déplacez-le vers la gauche ou la droite
         hint: Affichage "avant/après"
         leave_view: Quitter l'affichage "avant/après"
         start: Lancer l'affichage "avant/après"
@@ -33,27 +33,29 @@ fr:
       imprint: Achevé d'imprimer
       javascript_hint: Pour un fonctionnement optimal et une meilleure expérience utilisateur, cette application nécessite l’utilisation de JavaScript. Il se peut que votre navigateur soit incompatible avec JavaScript ou que JavaScript soit désactivé.
       languages:
-        ar: 
-        cs: 
-        de: 
-        dk: 
-        el: 
-        en: 
-        es: 
-        fr: 
-        it: 
-        nl: 
-        pl: 
-        pt: 
-        ru: 
-        sr: 
-        tr: 
-        unknown: 
-        zh: 
+        ar: Arabe
+        cs: Tchèque
+        de: Allemand
+        dk: Danois
+        el: Grec
+        en: 'Anglais
+
+'
+        es: Espagnol
+        fr: Français
+        it: Italien
+        nl: Néerlandais
+        pl: Polonais
+        pt: Portugais
+        ru: Russe
+        sr: Serbe
+        tr: Turc
+        unknown: "(Inconnu)"
+        zh: Chinois
       leave_fullscreen: Quitter le mode plein écran
       lets_go: Démarrer
       logo: Logo
-      media_quality: 
+      media_quality: Qualité
       mute_off: Désactiver Muet
       mute_on: Muet
       navigate_top: Accéder à la première page
@@ -63,16 +65,16 @@ fr:
         description: 'Depuis votre dernière visite, des pages ont été ajoutées à ce Pageflow:'
         title: Nouvelles pages
       notice: Remarque
-      open_audio: 
+      open_audio: Ouvrir audio
       open_navigation: Ouvrir la navigation
       open_overview: Ouvrir l‘aperçu
-      open_video: 
+      open_video: Ouvrir vidéo
       overview: Aperçu
       panorama:
         close: Fermer le panorama à 360° et afficher le texte
         start: Démarrer le panorama à 360°
       play_video: Lancer la vidéo
-      privacy_notice: 
+      privacy_notice: Politique de confidentialité
       scroll_back_indicator: 
       scroll_down: "Faire défiler\t"
       scroll_hint: Utilisez la roulette de la souris ou les touches de direction de votre clavier pour parcourir les pages.
@@ -97,35 +99,37 @@ fr:
       swipe_hint: Balayer pour parcourir les pages.
       swipe_indicator: Balayer pour continuer
       text_track_modes:
-        auto: 
-        auto_off: 
-        none: 
-      text_tracks: 
-      toggle_info_box: 
+        auto: Auto (%{label})
+        auto_off: Auto (Désactivé)
+        none: "(Aucun)"
+      text_tracks: Sous-Titres
+      toggle_info_box: Activer/désactiver boîte d'info
       video: Video
       video_qualities:
         annotations:
-          4k: 
-          fullhd: 
-          medium: 
+          4k: 4K
+          fullhd: HD
+          medium: HD
         labels:
-          4k: 
-          auto: 
-          fullhd: 
-          medium: 
+          4k: 2160p
+          auto: Auto
+          fullhd: 1080p
+          medium: 720p
       volume: Volume
       vr:
         no_vr:
-          link: 
-          text: 
-        select_quality: 
-        start: 
-        start_cardboard: 
+          link: |2-
+
+            Afficher la vidéo dans l'application YouTube
+          text: Les vidéos à 360 ° ne peuvent pas être affichées dans votre navigateur.
+        select_quality: Choisissez la qualité vidéo
+        start: Regardez vidéo à 360°
+        start_cardboard: Démarrer le mode cardboard
         video_qualities:
-          4k: 
-          fullhd: 
-          high: 
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
         video_quality_annotations:
-          4k: 
-          fullhd: 
-          high: 
+          4k: 4K
+          fullhd: HD
+          high: HD
