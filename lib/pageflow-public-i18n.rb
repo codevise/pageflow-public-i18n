@@ -4,7 +4,7 @@ require 'pageflow/public_i18n/version'
 module Pageflow
   module PublicI18n
     def self.text_direction(locale)
-      ['fa-IR'].include?(locale.to_s) ? 'rtl' : 'ltr'
+      ['ar', 'fa-IR'].include?(locale.to_s) ? 'rtl' : 'ltr'
     end
 
     def self.available_locales
