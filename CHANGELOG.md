@@ -1,10 +1,18 @@
 # CHANGELOG
 
+### Version 1.14.1
+
+2018-03-02
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.14.0...v1.14.1)
+
+- Set text direction for `ar` locale.
+
 ### Version 1.14.0
 
 2018-03-02
 
-[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.12.1...v1.13.0)
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.13.0...v1.14.0)
 
 - Added locale `ar`.
 - Added missing translations for `fr` locale.
