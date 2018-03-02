@@ -9,6 +9,7 @@ module Pageflow
 
     def self.available_locales
       [
+        :ar,
         :bg,
         :'cs-CZ',
         :de,
