@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.14.2
+
+2018-03-06
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.14.1...v1.14.2)
+
+- Fix display name of `ar` locale.
+
 ### Version 1.14.1
 
 2018-03-02
