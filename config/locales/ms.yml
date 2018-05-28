@@ -18,7 +18,9 @@ ms:
       close_hint: Tutup petua
       close_navigation: Tutup navigasi
       close_overview: Tutup gambaran keseluruhan
+      cookie_notice_html: 
       deprecated_browser: "<p>Pelayar anda tidak dikemaskini dan halaman ini mungkin tidak berfungsi seperti yang sepatutnya. Kami mengesyorkan supaya anda menaiktaraf pelayar anda kepada versi yang terkini.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Tinggalkan pautan video
       enlarge_view: Besarkan paparan

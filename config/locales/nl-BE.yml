@@ -18,7 +18,9 @@ nl-BE:
       close_hint: Hint sluiten
       close_navigation: Navigatie sluiten
       close_overview: Overzicht sluiten
+      cookie_notice_html: 
       deprecated_browser: "<p>Uw browser is verouderd en deze pagina werkt mogelijk niet zoals verwacht. We raden u aan uw browser te upgraden naar de nieuwste versie.<p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Ingesloten video verlaten
       enlarge_view: Weergave vergroten

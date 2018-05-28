@@ -18,7 +18,9 @@ ar:
       close_hint: إغلاق الشرح
       close_navigation: إغلاق التصفح
       close_overview: إغلاق العرض العام
+      cookie_notice_html: 
       deprecated_browser: " <p>متصفحك قديم وقد لا تظهر هذه الصفحة بالشكل المطلوب. نوصي بترقية المتصفح إلى أحدث نسخة.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: إغلاق عرض الفيديو
       enlarge_view: تكبير العرض

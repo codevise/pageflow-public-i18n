@@ -18,7 +18,9 @@ pl-PL:
       close_hint: Zamknij wskazówkę
       close_navigation: Zamknij nawigację
       close_overview: Zamknij przegląd
+      cookie_notice_html: 
       deprecated_browser: "<p> Szanowny uzytkowniku, </p><p>niestety używasz starej wersji przeglądarki, dlatego przygotowane treści nie  mogą być pokazane prawidłowo.  Prosimy zaktualizować do nowej wersji.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Opuść wbudowane video
       enlarge_view: Powiększ podgląd

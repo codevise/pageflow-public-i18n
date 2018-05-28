@@ -18,7 +18,9 @@ rm:
       close_hint: Serrar tip
       close_navigation: Serrar navigaziun
       close_overview: Serrar survista
+      cookie_notice_html: 
       deprecated_browser: "<p>Voss browser n'è betg pli actual ed i pudess esser, che questa pagina na funcziuna betg sco intenziunà. Nus proponin d'actualisar Voss browser a la versiun la pli actuala.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Sortir da embedded video
       enlarge_view: Engrondir la vista

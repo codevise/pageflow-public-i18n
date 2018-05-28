@@ -18,7 +18,9 @@ id:
       close_hint: Tutup petunjuk
       close_navigation: Tutup navigasi
       close_overview: Tutup ikhtisar
+      cookie_notice_html: 
       deprecated_browser: Peramban anda sudah usang dan halaman ini mungkin tidak akan berfungsi sebagaimana dimaksud. Sebaiknya upgrade peramban anda ke versi terbaru.
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Tinggalkan video tertanam
       enlarge_view: Perbesar pandangan

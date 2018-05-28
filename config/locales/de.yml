@@ -18,7 +18,9 @@ de:
       close_hint: Hinweis schließen
       close_navigation: Navigation schließen
       close_overview: Übersicht schließen
+      cookie_notice_html: Diese Webseite verwendet Cookies. Durch die Nutzung der Website wird der Verwendung von Cookies zugestimmt. <a href="%{privacyLinkUrl}" target="_blank">Mehr erfahren</a>
       deprecated_browser: "<p>Liebe Nutzer,</p><p>leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.</p>"
+      dismiss_cookie_notice: Ausblenden
       embedded_video:
         leave_video: Eingebettetes Video verlassen
       enlarge_view: Ansicht vergrößern

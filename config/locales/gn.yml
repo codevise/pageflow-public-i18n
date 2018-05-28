@@ -18,7 +18,9 @@ gn:
       close_hint: Emboty ñe’ẽ
       close_navigation: Emboty nde navegador
       close_overview: Emboty paité
+      cookie_notice_html: 
       deprecated_browser: "<p>Ko navegador reipurúva hina itujama ha ikatú ndoikoporái ndeve. E mbo pyahuve vaerã.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Re sẽ hagũa video oñondivepa gui
       enlarge_view: Re hecha hagũa tuichave

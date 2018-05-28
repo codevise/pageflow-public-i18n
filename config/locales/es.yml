@@ -18,7 +18,9 @@ es:
       close_hint: Cerrar consejo
       close_navigation: Cerrar navegación
       close_overview: Cerrar vista general
+      cookie_notice_html: 
       deprecated_browser: "<p>La versión de su browser no es la más reciente por lo que ésta página puede funcionar de forma incorrecta. Le recomendamos actualizar su browser a la versión más actual.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Abandonar vídeo integrado
       enlarge_view: Vista ampliada

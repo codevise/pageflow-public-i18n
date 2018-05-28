@@ -18,7 +18,9 @@ sr:
       close_hint: Zatvori hint
       close_navigation: Zatvori navigaciju
       close_overview: Zatvori overview
+      cookie_notice_html: 
       deprecated_browser: "<p>Vaš pretraživač je zastareo, ova strana neće raditi kako je planirano. Preporučujemo da skinete poslednju verziju pretraživača.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Napusti embedovan video
       enlarge_view: Uvecati stranicu

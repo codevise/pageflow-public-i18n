@@ -18,7 +18,9 @@ zh:
       close_hint: 关闭提示
       close_navigation: 关闭导航
       close_overview: 关闭概述
+      cookie_notice_html: 
       deprecated_browser: "<p>您的浏览器已经过时，该界面或许不能正常工作. 我们建议您升级您的浏览器版本</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: 离开嵌入的视频
       enlarge_view: 进入大图模式

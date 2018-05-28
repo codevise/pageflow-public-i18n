@@ -18,7 +18,9 @@ ru-RU:
       close_hint: Закрыть примечание
       close_navigation: Закрыть навигацию
       close_overview: Закрыть обзор
+      cookie_notice_html: 
       deprecated_browser: "<p>Вы используете устаревшую версию браузера, поэтому содержание страницы может отображаться некорректно. Рекомендуем вам установить последнюю версию</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Выйти из режима просмотра видео
       enlarge_view: Увеличить изображение

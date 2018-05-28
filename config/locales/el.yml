@@ -18,7 +18,9 @@ el:
       close_hint: Κλείσιμο βοηθήματος
       close_navigation: Κλείσιμο οδηγού
       close_overview: Κλείσιμο επισκόπισης
+      cookie_notice_html: 
       deprecated_browser: "<p>Το πρόγραμα περιήγησης σας έχει ξεπερασμένο λογισμικό  και ίσως να μην λητουργεί. Σας προτείνουμε να αναβαθμίσετε το πρόγραμα περιήγησης σας με την ποιο πρόσφατη έκδοση.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Αποχώριση ενσώματομενου βίντεο
       enlarge_view: Μεγιστοποιηση προβολής

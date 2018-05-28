@@ -18,7 +18,9 @@ it:
       close_hint: chiudere suggerimento
       close_navigation: terminare navigazione
       close_overview: chiudere panoramica
+      cookie_notice_html: 
       deprecated_browser: Gentile utilizzatore, sta usando una versione vecchia del suo browser. Per questo motivo non può visualizzare correttamente i contenuti di questa pagina. Per favore aggiorni il browser con l’ultima versione disponibile.
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: abbandonare video inserito
       enlarge_view: ingrandire visuale

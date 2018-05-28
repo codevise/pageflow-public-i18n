@@ -18,7 +18,9 @@ cs-CZ:
       close_hint: Zavřít nápovědu
       close_navigation: Zavřít navigaci
       close_overview: Zavřít náhled
+      cookie_notice_html: 
       deprecated_browser: "<p>Používáte zastaralý prohlížeč, je proto možné, že nedokáže tuto stránku zobrazit tak, jak byla navržena. Doporučujeme jej aktualizovat na nejnovější verzi.</p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Zavřít vložené video
       enlarge_view: Zvětšit zobrazení

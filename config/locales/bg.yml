@@ -18,7 +18,9 @@ bg:
       close_hint: Затвори предложението
       close_navigation: Затвори навигацията
       close_overview: Затвори прегледа
+      cookie_notice_html: 
       deprecated_browser: "<p>Вашият браузър не е обновен и тази страница може да не работи нормално. Препоръчваме обновяване на браузъра до най-новата версия.<p>"
+      dismiss_cookie_notice: 
       embedded_video:
         leave_video: Излез от вграденото видео
       enlarge_view: Увеличи изгледа
