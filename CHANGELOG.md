@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.15.0
+
+2018-05-28
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.14.2...v1.15.0)
+
+- New keys: `cookie_notice_html` and `dismiss_cookie_notice`.
+
 ### Version 1.14.2
 
 2018-03-06
