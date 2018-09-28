@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.16.0
+
+2018-09-28
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.15.0...v1.16.0)
+
+- New key: `swipe_to_continue`.
+
 ### Version 1.15.0
 
 2018-05-28
