@@ -98,6 +98,7 @@ tr:
       start_video: Start video now
       swipe_hint: Sayfalar arası navigasyon için swipe ediniz
       swipe_indicator: Devami icin swipe ediniz
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

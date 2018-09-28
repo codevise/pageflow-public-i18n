@@ -98,6 +98,7 @@ pt-BR:
       start_video: Start video now
       swipe_hint: Deslize para navegar entre as páginas.
       swipe_indicator: Deslize para continuar
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

@@ -98,6 +98,7 @@ bg:
       start_video: Пусни видеото сега
       swipe_hint: Плъзни за навигация през страниците.
       swipe_indicator: Плъзни за да продължиш
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

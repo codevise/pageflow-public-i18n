@@ -98,6 +98,7 @@ it:
       start_video: avvio video
       swipe_hint: scorrendo verrà visualizzata la pagina successiva
       swipe_indicator: strisciare a continuare
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

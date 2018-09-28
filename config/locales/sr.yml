@@ -98,6 +98,7 @@ sr:
       start_video: Start video now
       swipe_hint: Swipe za navigaciju između strana.
       swipe_indicator: Swipe za nastavak
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

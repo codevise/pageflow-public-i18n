@@ -98,6 +98,7 @@ ar:
       start_video: بدء تشغيل الفيديو الآن
       swipe_hint: حرك إصبعك على الشاشة للتنقل بين الصفحات
       swipe_indicator: 'حرك إصبعك للاستمرار '
+      swipe_to_continue: 
       text_track_modes:
         auto: " أوتوماتيكي (%{label}) "
         auto_off: " أوتوماتيكي (إيقاف)"

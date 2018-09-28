@@ -98,6 +98,7 @@ de:
       start_video: Video jetzt starten
       swipe_hint: Durch Wischen wird die jeweils nächste Kapitelseite aufgerufen.
       swipe_indicator: Wischen, um Text einzublenden
+      swipe_to_continue: Wischen, um weiterzulesen
       text_track_modes:
         auto: Auto (%{label})
         auto_off: Auto (Aus)

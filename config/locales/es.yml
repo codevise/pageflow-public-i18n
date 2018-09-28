@@ -98,6 +98,7 @@ es:
       start_video: Iniciar vídeo ahora
       swipe_hint: Deslíze el dedo por la pantalla para navegar entre las páginas.
       swipe_indicator: Deslíze el dedo por la pantalla para continuar
+      swipe_to_continue: 
       text_track_modes:
         auto: Auto (%{label})
         auto_off: Auto (Apagado)

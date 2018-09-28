@@ -98,6 +98,7 @@ cs-CZ:
       start_video: Podívejte se
       swipe_hint: Listujte tahem prstu po obrazovce
       swipe_indicator: Pokračujte tahem prstu
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

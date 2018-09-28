@@ -98,6 +98,7 @@ ms:
       start_video: Mulakan video sekarang
       swipe_hint: Leret untuk menelusuri antara halaman.
       swipe_indicator: Leret untuk teruskan
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

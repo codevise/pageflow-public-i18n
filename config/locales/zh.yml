@@ -98,6 +98,7 @@ zh:
       start_video: 立即播放视频
       swipe_hint: 滑动界面间导航
       swipe_indicator: 继续滑动
+      swipe_to_continue: 
       text_track_modes:
         auto: 自动 (%{label})
         auto_off: 自动 (关闭)

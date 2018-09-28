@@ -98,6 +98,7 @@ en:
       start_video: Start video now
       swipe_hint: Swipe to navigate between pages.
       swipe_indicator: Swipe to continue
+      swipe_to_continue: Swipe to continue
       text_track_modes:
         auto: Auto (%{label})
         auto_off: Auto (Off)

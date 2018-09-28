@@ -100,6 +100,7 @@ fr:
       start_video: Démarrer la vidéo maintenant
       swipe_hint: Balayer pour parcourir les pages.
       swipe_indicator: Balayer pour continuer
+      swipe_to_continue: 
       text_track_modes:
         auto: Auto (%{label})
         auto_off: Auto (Désactivé)

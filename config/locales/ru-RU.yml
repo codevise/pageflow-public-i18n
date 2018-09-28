@@ -98,6 +98,7 @@ ru-RU:
       start_video: Воспроизвести видео
       swipe_hint: Проведите пальцем по экрану, чтобы открыть следующую страницу
       swipe_indicator: Проведите пальцем по экрану, чтобы продолжить
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

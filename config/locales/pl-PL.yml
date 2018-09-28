@@ -98,6 +98,7 @@ pl-PL:
       start_video: Rozpocznij video
       swipe_hint: Przesunięcie spowoduje przejście do kolejnego rozdziału
       swipe_indicator: Przesuń aby zobaczyć tekst
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

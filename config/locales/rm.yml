@@ -98,6 +98,7 @@ rm:
       start_video: Laschar ir video uss
       swipe_hint: Far vi e nà cun il det per navigar tranter paginas
       swipe_indicator: Far vi e nà cun il det per cuntinuar
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

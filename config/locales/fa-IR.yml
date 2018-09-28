@@ -98,6 +98,7 @@ fa-IR:
       start_video: شروع پخش تصویری
       swipe_hint: حرکت بین صفحات
       swipe_indicator: حرکت برای ادامه
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

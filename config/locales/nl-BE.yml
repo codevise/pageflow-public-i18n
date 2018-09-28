@@ -98,6 +98,7 @@ nl-BE:
       start_video: Start video now
       swipe_hint: Vegen om tussen pagina‘s te navigeren
       swipe_indicator: Vegen om verder te gaan
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

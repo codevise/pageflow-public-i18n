@@ -98,6 +98,7 @@ id:
       start_video: Mulai video sekarang
       swipe_hint: Gesek untuk menavigasi antara halaman.
       swipe_indicator: Gesek untuk teruskan.
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 

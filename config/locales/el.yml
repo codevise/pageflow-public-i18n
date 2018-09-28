@@ -98,6 +98,7 @@ el:
       start_video: Έναρξή βίντεο τώρα
       swipe_hint: σύρετε την οθόνη για να περιηγηθείτε ανάμεσα στις σελίδες
       swipe_indicator: σύρετε την οθόνη για να συνεχήσετε
+      swipe_to_continue: 
       text_track_modes:
         auto: 
         auto_off: 
