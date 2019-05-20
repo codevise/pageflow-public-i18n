@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.17.0
+
+2018-05-20
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.16.0...v1.17.0)
+
+- Translations for new share providers
+
 ### Version 1.16.0
 
 2018-09-28
