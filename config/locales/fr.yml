@@ -18,9 +18,9 @@ fr:
       close_hint: Fermer l’astuce
       close_navigation: Fermer la navigation
       close_overview: Fermer l’aperçu
-      cookie_notice_html: 
+      cookie_notice_html: Ce site web utilise des cookies. En utilisant nos services, vous acceptez notre utilisation des cookies. <a href="%{privacyLinkUrl}" target="_blank">En savoir plus </a>
       deprecated_browser: "<p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>"
-      dismiss_cookie_notice: 
+      dismiss_cookie_notice: Masquer
       embedded_video:
         leave_video: Quitter la vidéo intégrée
       enlarge_view: Agrandir l’affichage
@@ -100,7 +100,7 @@ fr:
       start_video: Démarrer la vidéo maintenant
       swipe_hint: Balayer pour parcourir les pages.
       swipe_indicator: Balayer pour continuer
-      swipe_to_continue: 
+      swipe_to_continue: Glissez pour continuer
       text_track_modes:
         auto: Auto (%{label})
         auto_off: Auto (Désactivé)
