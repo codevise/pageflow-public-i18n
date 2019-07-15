@@ -21,6 +21,7 @@ module Pageflow
         :gn,
         :id,
         :it,
+        :ja,
         :ms,
         :nl,
         :'nl-BE',
