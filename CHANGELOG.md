@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.18.1
+
+2019-07-15
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.18.0...v1.18.1)
+
+- Add `ja` to list of available locales.
+
 ### Version 1.18.0
 
 2019-07-15
