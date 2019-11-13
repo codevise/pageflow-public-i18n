@@ -83,11 +83,15 @@ es:
       scroll_right: Desplazarse hacia la derecha
       scroll_up: Desplazarse hacia arriba
       share: Compartir
+      share_in_telegram: 
+      share_in_whats_app: 
       share_on_facebook: Compartir en Facebook
       share_on_google: Compartir en Google+
+      share_on_linked_in: 
       share_on_twitter: Compartir en Twitter
       share_this_entry: Esta historia
       share_this_page: Esta página
+      share_via_email: 
       show_home: Inicio
       show_text: Mostrar texto
       skip_links_content: Ir al contenido

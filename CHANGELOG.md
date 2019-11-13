@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.18.2
+
+2019-11-12
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.18.1...v1.18.2)
+
+- Fix typo in english translation.
+
 ### Version 1.18.1
 
 2019-07-15

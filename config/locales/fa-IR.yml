@@ -83,11 +83,15 @@ fa-IR:
       scroll_right: حرکت به طرف راست
       scroll_up: حرکت به طرف بالا
       share: " به اشتراک بگذارید"
+      share_in_telegram: 
+      share_in_whats_app: 
       share_on_facebook: در فیسبوک به اشتراک بگذارید
       share_on_google: در گوگل پلاس به اشتراک بگذارید
+      share_on_linked_in: 
       share_on_twitter: در تویتیتر به اشتراک بگذارید
       share_this_entry: این داستان
       share_this_page: این صفحه
+      share_via_email: 
       show_home: شروع
       show_text: نمایش متن
       skip_links_content: رفتن بطرف محتوا
