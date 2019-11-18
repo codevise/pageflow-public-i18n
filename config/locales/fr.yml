@@ -42,15 +42,26 @@ fr:
         el: Grec
         en: 'Anglais
 
-'
+          '
         es: Espagnol
+        fi: 
         fr: Français
+        fy: 
+        hi: 
         it: Italien
+        ja: 
+        lb: 
+        nb: 
         nl: Néerlandais
+        nn: 
+        'no': 
         pl: Polonais
         pt: Portugais
+        rm: 
         ru: Russe
+        se: 
         sr: Serbe
+        sv: 
         tr: Turc
         unknown: "(Inconnu)"
         zh: Chinois
