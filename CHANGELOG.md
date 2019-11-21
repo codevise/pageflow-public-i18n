@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.18.3
+
+2019-11-21
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.18.2...v1.18.3)
+
+- Add language names for text track labels.
+
 ### Version 1.18.2
 
 2019-11-12
