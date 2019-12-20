@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### Version 1.19.0
+
+2019-12-20
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.18.3...v1.19.0)
+
+- Add Norwegian locale
+- Add some missing translations for `zh` locale
+- Remove line breaks in french `languages.en` translation
+
 ### Version 1.18.3
 
 2019-11-21
