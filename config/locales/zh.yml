@@ -18,9 +18,9 @@ zh:
       close_hint: 关闭提示
       close_navigation: 关闭导航
       close_overview: 关闭概述
-      cookie_notice_html: 
+      cookie_notice_html: 本网站使用Cookies。通过使用我们的服务，您同意我们使用Cookie。 <a href="%{privacyLinkUrl}" target="_blank">了解详情</a>
       deprecated_browser: "<p>您的浏览器已经过时，该界面或许不能正常工作. 我们建议您升级您的浏览器版本</p>"
-      dismiss_cookie_notice: 
+      dismiss_cookie_notice: 隐藏
       embedded_video:
         leave_video: 离开嵌入的视频
       enlarge_view: 进入大图模式
@@ -42,7 +42,7 @@ zh:
         el: 希腊
         en: 英格兰
         es: 西班牙
-        fi: 
+        fi: 完成
         fr: 法国
         fy: 
         hi: 
@@ -94,15 +94,15 @@ zh:
       scroll_right: 向右滚动
       scroll_up: 向上滚动
       share: 分享
-      share_in_telegram: 
-      share_in_whats_app: 
+      share_in_telegram: 分享到Telegram
+      share_in_whats_app: 分享到WhatsApp
       share_on_facebook: 分享到 Facebook
       share_on_google: 分享到 Google+
-      share_on_linked_in: 
+      share_on_linked_in: 分享到LinkedIn
       share_on_twitter: 分享到 Twitter
       share_this_entry: 这个故事
       share_this_page: 这个界面
-      share_via_email: 
+      share_via_email: 分享到邮件
       show_home: 开始
       show_text: 显示文字
       skip_links_content: 查看内容
@@ -113,7 +113,7 @@ zh:
       start_video: 立即播放视频
       swipe_hint: 滑动界面间导航
       swipe_indicator: 继续滑动
-      swipe_to_continue: 
+      swipe_to_continue: 点击继续
       text_track_modes:
         auto: 自动 (%{label})
         auto_off: 自动 (关闭)
