@@ -24,6 +24,7 @@ module Pageflow
         :ja,
         :ms,
         :nl,
+        :no,
         :'nl-BE',
         :'pl-PL',
         :'pt-BR',
