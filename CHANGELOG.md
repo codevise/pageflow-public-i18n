@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.19.1
+
+2020-04-16
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.19.0...v1.19.1)
+
+- Fix typo in `pl-PL`.
+
 ### Version 1.19.0
 
 2019-12-20
