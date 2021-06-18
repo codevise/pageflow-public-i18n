@@ -18,6 +18,9 @@ rm:
       close_hint: Serrar tip
       close_navigation: Serrar navigaziun
       close_overview: Serrar survista
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: 
       deprecated_browser: "<p>Voss browser n'è betg pli actual ed i pudess esser, che questa pagina na funcziuna betg sco intenziunà. Nus proponin d'actualisar Voss browser a la versiun la pli actuala.</p>"
       dismiss_cookie_notice: 

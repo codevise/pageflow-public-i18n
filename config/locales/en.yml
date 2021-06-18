@@ -18,6 +18,9 @@ en:
       close_hint: Close hint
       close_navigation: Close navigation
       close_overview: Close overview
+      consent_accept_all: Accept all
+      consent_deny_all: Deny all
+      consent_prompt_html: The text of this notice hasn't been decided yet. <a href="%{privacyLinkUrl}" target="_blank">Learn more</a>
       cookie_notice_html: This website uses cookies. By using our services, you agree to our use of cookies. <a href="%{privacyLinkUrl}" target="_blank">Learn more</a>
       deprecated_browser: "<p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>"
       dismiss_cookie_notice: Hide

@@ -18,6 +18,9 @@ pl-PL:
       close_hint: Zamknij wskazówkę
       close_navigation: Zamknij nawigację
       close_overview: Zamknij przegląd
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: 
       deprecated_browser: "<p> Szanowny uzytkowniku, </p><p>niestety używasz starej wersji przeglądarki, dlatego przygotowane treści nie  mogą być pokazane prawidłowo.  Prosimy zaktualizować do nowej wersji.</p>"
       dismiss_cookie_notice: 

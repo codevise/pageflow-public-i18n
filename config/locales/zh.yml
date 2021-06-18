@@ -18,6 +18,9 @@ zh:
       close_hint: 关闭提示
       close_navigation: 关闭导航
       close_overview: 关闭概述
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: 本网站使用Cookies。通过使用我们的服务，您同意我们使用Cookie。 <a href="%{privacyLinkUrl}" target="_blank">了解详情</a>
       deprecated_browser: "<p>您的浏览器已经过时，该界面或许不能正常工作. 我们建议您升级您的浏览器版本</p>"
       dismiss_cookie_notice: 隐藏

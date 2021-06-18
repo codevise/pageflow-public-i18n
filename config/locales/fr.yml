@@ -18,6 +18,9 @@ fr:
       close_hint: Fermer l’astuce
       close_navigation: Fermer la navigation
       close_overview: Fermer l’aperçu
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: Ce site web utilise des cookies. En utilisant nos services, vous acceptez notre utilisation des cookies. <a href="%{privacyLinkUrl}" target="_blank">En savoir plus </a>
       deprecated_browser: "<p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>"
       dismiss_cookie_notice: Masquer

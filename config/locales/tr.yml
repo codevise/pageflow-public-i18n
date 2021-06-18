@@ -18,6 +18,9 @@ tr:
       close_hint: Ipucunu kapat
       close_navigation: Gezinimi kapat
       close_overview: Görünümü kapat
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: 
       deprecated_browser: "<p>Internet tarayıcınız malesef gündem dışı. Bundan dolayı sayfanın içerigi düzgün şekilde görüntülenemiyor.  Lütfen tarayıcınızı güncelleyin.</p>"
       dismiss_cookie_notice: 

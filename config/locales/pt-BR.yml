@@ -18,6 +18,9 @@ pt-BR:
       close_hint: Fechar dica
       close_navigation: Fechar navegação
       close_overview: Fechar visão geral
+      consent_accept_all: 
+      consent_deny_all: 
+      consent_prompt_html: 
       cookie_notice_html: 
       deprecated_browser: "<p>O seu navegador está desatualizado e essa página pode não funcionar como planejado. Recomendamos atualizar seu navegador para a versão mais recente.</p>"
       dismiss_cookie_notice: 
