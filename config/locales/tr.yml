@@ -13,16 +13,32 @@ tr:
         start_title: Geri/İleri görünümü başlat
       chapter: Bölüm
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Görünümü yakınlaştır/uzaklaştır
       close: Kapat
       close_hint: Ipucunu kapat
       close_navigation: Gezinimi kapat
       close_overview: Görünümü kapat
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Internet tarayıcınız malesef gündem dışı. Bundan dolayı sayfanın içerigi düzgün şekilde görüntülenemiyor.  Lütfen tarayıcınızı güncelleyin.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Gömülü videodan ayrıl
+        opt_in_prompt: 
       enlarge_view: Görünümü büyüt
       enter_fullscreen: Tam ekran
       first_page: İlk sayfa
@@ -119,6 +135,13 @@ tr:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

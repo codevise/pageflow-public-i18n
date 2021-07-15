@@ -13,16 +13,37 @@ de:
         start_title: Vorher/Nachher-Ansicht starten
       chapter: Kapitel
       chart:
+        consent_vendor_name: Datawrapper
+        opt_in_prompt: Ich bin damit einverstanden, dass mir Diagramme von Datawrapper angezeigt werden.
         toggle: Ansicht vergrößern bzw. verkleinern
       close: Schließen
       close_hint: Hinweis schließen
       close_navigation: Navigation schließen
       close_overview: Übersicht schließen
+      consent_accept_all: Alle akzeptieren und schließen
+      consent_configure: Mehr Informationen
+      consent_deny_all: Ablehnen
+      consent_expand_vendor: Mehr Informationen
+      consent_no_vendors: Es werden im Moment keine Drittanbieter verwendet.
+      consent_prompt_html: |-
+        Diese Website nutzt Technologien von Drittanbietern.
+        Wir bitten Sie hiermit um Erlaubnis, diese Technologien zu verwenden.
+        Sie können Ihre Einwilligung später jederzeit auf unserer Seite zur
+        <a href="%{privacyLinkUrl}" target="_blank">Datenschutzerklärung</a>
+        ändern oder widerrufen.
+      consent_save: Auswahl speichern
+      consent_settings: Privatsphäre-Einstellungen
       cookie_notice_html: Diese Webseite verwendet Cookies. Durch die Nutzung der Website wird der Verwendung von Cookies zugestimmt. <a href="%{privacyLinkUrl}" target="_blank">Mehr erfahren</a>
       deprecated_browser: "<p>Liebe Nutzer,</p><p>leider nutzen Sie eine veraltete Version Ihres Browsers. Deshalb können die an dieser Stelle vorgesehenen Inhalte nicht korrekt dargestellt werden. Bitte aktualisieren Sie auf eine aktuelle Version.</p>"
       dismiss_cookie_notice: Ausblenden
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: Vimeo Videos
+          youtube:
+            vendor_name: YouTube Videos
         leave_video: Eingebettetes Video verlassen
+        opt_in_prompt: Ich bin damit einverstanden, dass mir %{vendor} gezeigt werden.
       enlarge_view: Ansicht vergrößern
       enter_fullscreen: Vollbilddarstellung
       first_page: Erste Seite
@@ -119,6 +140,13 @@ de:
         auto_off: Auto (Aus)
         none: Aus
       text_tracks: Untertitel
+      third_party_embed_consent:
+        opt_in:
+          confirm: Einverstanden
+          more_information: Mehr Informationen
+        opt_out_info:
+          prompt_html: Um externe Dienste auszuschalten, %{link} Einstellungen ändern.
+          prompt_link: hier
       toggle_info_box: Info Box ein-/ausblenden
       video: Video
       video_qualities:

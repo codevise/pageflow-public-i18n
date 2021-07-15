@@ -13,16 +13,32 @@ fr:
         start_title: Lancer l'affichage "avant/après"
       chapter: Chapitre
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Activer/Désactiver
       close: Fermer
       close_hint: Fermer l’astuce
       close_navigation: Fermer la navigation
       close_overview: Fermer l’aperçu
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: Ce site web utilise des cookies. En utilisant nos services, vous acceptez notre utilisation des cookies. <a href="%{privacyLinkUrl}" target="_blank">En savoir plus </a>
       deprecated_browser: "<p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>"
       dismiss_cookie_notice: Masquer
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Quitter la vidéo intégrée
+        opt_in_prompt: 
       enlarge_view: Agrandir l’affichage
       enter_fullscreen: Passer en mode plein écran
       first_page: Première page
@@ -119,6 +135,13 @@ fr:
         auto_off: Auto (Désactivé)
         none: "(Aucun)"
       text_tracks: Sous-Titres
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: Activer/désactiver boîte d'info
       video: Video
       video_qualities:

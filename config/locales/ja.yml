@@ -13,16 +13,32 @@ ja:
         start_title: ビフォー/アフターを始める
       chapter: 章
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: トグル
       close: 閉じる
       close_hint: ヒントを閉じる
       close_navigation: ナビゲーションを閉じる
       close_overview: オーバービューを閉じる
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: このウェブサイトはCookieを使用しています。こちらのサービスを使用することで、Cookieの利用規約に同意したものと見なされます。<a href="%{privacyLinkUrl}" target="_blank">Learn more</a>
       deprecated_browser: "<p>ブラウザが最新のバージョンに更新されていないため、ページがうまく表示されない可能性があります。ブラウザを最新のバージョンに更新して下さい。</p>"
       dismiss_cookie_notice: 隠す
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: ビデオをやめる
+        opt_in_prompt: 
       enlarge_view: 拡大する
       enter_fullscreen: 全画面表示にする
       first_page: 初めのページ
@@ -119,6 +135,13 @@ ja:
         auto_off: オート (Off)
         none: "（なし）"
       text_tracks: 字幕
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: インフォボックスをトグル
       video: ビデオ
       video_qualities:

@@ -13,16 +13,32 @@ fa-IR:
         start_title: شروع قبل / بعد از نمایش
       chapter: فصل
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: تغییر وضعیت
       close: بستن
       close_hint: بستن
       close_navigation: بستن جهت یابی
       close_overview: بستن مرور کلی
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: " این صفحه ممکن است کار کند و در مرورگر شما منسوخ شده است به عنوان در نظر گرفته شده. ما توصیه می کنیم  مرورگر خود را به نسخه های اخیر  به روز رسانی کنید."
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: ترک ویدئو های جاسازی شده
+        opt_in_prompt: 
       enlarge_view: بزرگ نمایی نمایش
       enter_fullscreen: 'حالت تمام صفحه '
       first_page: صفحه اول
@@ -119,6 +135,13 @@ fa-IR:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: تصویر
       video_qualities:

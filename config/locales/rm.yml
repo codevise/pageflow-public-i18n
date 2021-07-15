@@ -13,16 +13,32 @@ rm:
         start_title: Cumenzar cun vista avant/suenter
       chapter: Chapitel
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: midar
       close: Serrar
       close_hint: Serrar tip
       close_navigation: Serrar navigaziun
       close_overview: Serrar survista
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Voss browser n'è betg pli actual ed i pudess esser, che questa pagina na funcziuna betg sco intenziunà. Nus proponin d'actualisar Voss browser a la versiun la pli actuala.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Sortir da embedded video
+        opt_in_prompt: 
       enlarge_view: Engrondir la vista
       enter_fullscreen: Entrar en il modus da fullscreen
       first_page: Emprima pagina
@@ -119,6 +135,13 @@ rm:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

@@ -13,16 +13,32 @@ ms:
         start_title: Mulakan paparan sebelum/selepas
       chapter: Bab
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Togol
       close: 'Tutup '
       close_hint: Tutup petua
       close_navigation: Tutup navigasi
       close_overview: Tutup gambaran keseluruhan
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Pelayar anda tidak dikemaskini dan halaman ini mungkin tidak berfungsi seperti yang sepatutnya. Kami mengesyorkan supaya anda menaiktaraf pelayar anda kepada versi yang terkini.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Tinggalkan pautan video
+        opt_in_prompt: 
       enlarge_view: Besarkan paparan
       enter_fullscreen: Masuki mod paparan penuh
       first_page: Halaman pertama
@@ -119,6 +135,13 @@ ms:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

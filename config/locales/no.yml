@@ -13,16 +13,32 @@
         start_title: Start før/etter bildet
       chapter: Kapittel
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Rør
       close: Lukk
       close_hint: Lukk hint
       close_navigation: Lukk navigering
       close_overview: Lukk oversikten
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: Denne nettsiden bruker cookies. Ved å bruke siden, godtar du vår bruk av cookies. <a href="%{privacyLinkUrl}" target="_blank">Les mer</a>
       deprecated_browser: "<p>Din nettleser er utdatert og innholdet på siden virker kanskje ikke som det skal. Vi anbefaler at du oppgraderer nettleseren til nyeste versjon</p>"
       dismiss_cookie_notice: Skjul
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Gå ut av video
+        opt_in_prompt: 
       enlarge_view: Utvid
       enter_fullscreen: Fullskjerm
       first_page: Første side
@@ -119,6 +135,13 @@
         auto_off: Automatisk (Av)
         none: Ingen
       text_tracks: Undertekster
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: Faktaboks
       video: Video
       video_qualities:

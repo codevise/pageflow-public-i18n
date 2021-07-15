@@ -13,16 +13,32 @@ nl:
         start_title: Start de voor/na weergave
       chapter: Hoofdstuk
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: In-/uitschakelen
       close: Sluiten
       close_hint: Hint sluiten
       close_navigation: Navigatie sluiten
       close_overview: Overzicht sluiten
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Uw browser is verouderd en deze pagina werkt mogelijk niet zoals verwacht. We raden u aan uw browser te upgraden naar de nieuwste versie.<p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Embedded video verlaten
+        opt_in_prompt: 
       enlarge_view: Weergave vergroten
       enter_fullscreen: Volledig scherm weergeven
       first_page: Eerste pagina
@@ -119,6 +135,13 @@ nl:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

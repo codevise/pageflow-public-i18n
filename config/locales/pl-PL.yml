@@ -13,16 +13,32 @@ pl-PL:
         start_title: Start widok przed/po
       chapter: Rozdział
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Powiększ lub pomniejsz podgląd
       close: Zamknij
       close_hint: Zamknij wskazówkę
       close_navigation: Zamknij nawigację
       close_overview: Zamknij przegląd
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p> Szanowny uzytkowniku, </p><p>niestety używasz starej wersji przeglądarki, dlatego przygotowane treści nie  mogą być pokazane prawidłowo.  Prosimy zaktualizować do nowej wersji.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Opuść wbudowane video
+        opt_in_prompt: 
       enlarge_view: Powiększ podgląd
       enter_fullscreen: Pełny ekran
       first_page: Pierwsza strona
@@ -119,6 +135,13 @@ pl-PL:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

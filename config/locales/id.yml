@@ -13,16 +13,32 @@ id:
         start_title: Mulakan paparan sebelum/selepas
       chapter: Bab
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Alih
       close: Tutup
       close_hint: Tutup petunjuk
       close_navigation: Tutup navigasi
       close_overview: Tutup ikhtisar
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: Peramban anda sudah usang dan halaman ini mungkin tidak akan berfungsi sebagaimana dimaksud. Sebaiknya upgrade peramban anda ke versi terbaru.
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Tinggalkan video tertanam
+        opt_in_prompt: 
       enlarge_view: Perbesar pandangan
       enter_fullscreen: Masuk mode layar penuh
       first_page: Halaman pertama
@@ -119,6 +135,13 @@ id:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:

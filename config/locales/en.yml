@@ -13,16 +13,36 @@ en:
         start_title: Start before/after view
       chapter: Chapter
       chart:
+        consent_vendor_name: Datawrapper
+        opt_in_prompt: I agree with being shown Datawrapper charts.
         toggle: Toggle
       close: Close
       close_hint: Close hint
       close_navigation: Close navigation
       close_overview: Close overview
+      consent_accept_all: Accept all and close
+      consent_configure: More Information
+      consent_deny_all: Deny
+      consent_expand_vendor: More information
+      consent_no_vendors: Currently not using any third party integrations.
+      consent_prompt_html: |-
+        This website uses third party technologies.
+        We are asking your permission to use these technologies.
+        You can always change or withdraw your consent later via our
+        <a href="%{privacyLinkUrl}" target="_blank">privacy policy</a> page.
+      consent_save: Save selection
+      consent_settings: Privacy Settings
       cookie_notice_html: This website uses cookies. By using our services, you agree to our use of cookies. <a href="%{privacyLinkUrl}" target="_blank">Learn more</a>
       deprecated_browser: "<p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>"
       dismiss_cookie_notice: Hide
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: Vimeo videos
+          youtube:
+            vendor_name: YouTube videos
         leave_video: Leave embedded video
+        opt_in_prompt: I agree with being shown %{vendor}.
       enlarge_view: Enlarge view
       enter_fullscreen: Enter Fullscreen mode
       first_page: First page
@@ -119,6 +139,13 @@ en:
         auto_off: Auto (Off)
         none: "(None)"
       text_tracks: Subtitles
+      third_party_embed_consent:
+        opt_in:
+          confirm: Confirm
+          more_information: More information
+        opt_out_info:
+          prompt_html: To opt out of displaying external embeds, manage settings %{link}.
+          prompt_link: here
       toggle_info_box: Toggle info box
       video: Video
       video_qualities:

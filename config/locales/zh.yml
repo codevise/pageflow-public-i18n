@@ -13,16 +13,32 @@ zh:
         start_title: 开始 前/后 查看
       chapter: 章节
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: 开关
       close: 关闭
       close_hint: 关闭提示
       close_navigation: 关闭导航
       close_overview: 关闭概述
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 本网站使用Cookies。通过使用我们的服务，您同意我们使用Cookie。 <a href="%{privacyLinkUrl}" target="_blank">了解详情</a>
       deprecated_browser: "<p>您的浏览器已经过时，该界面或许不能正常工作. 我们建议您升级您的浏览器版本</p>"
       dismiss_cookie_notice: 隐藏
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: 离开嵌入的视频
+        opt_in_prompt: 
       enlarge_view: 进入大图模式
       enter_fullscreen: 进入全屏模式
       first_page: 首页
@@ -119,6 +135,13 @@ zh:
         auto_off: 自动 (关闭)
         none: "(无)"
       text_tracks: 子标题
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 切换信息框
       video: 视频
       video_qualities:

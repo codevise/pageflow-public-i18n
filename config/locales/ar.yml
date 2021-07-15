@@ -13,16 +13,32 @@ ar:
         start_title: بدء عرض قبل/بعد
       chapter: " الفصل"
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: تفعيل/إيقاف
       close: " إغلاق"
       close_hint: إغلاق الشرح
       close_navigation: إغلاق التصفح
       close_overview: إغلاق العرض العام
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: " <p>متصفحك قديم وقد لا تظهر هذه الصفحة بالشكل المطلوب. نوصي بترقية المتصفح إلى أحدث نسخة.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: إغلاق عرض الفيديو
+        opt_in_prompt: 
       enlarge_view: تكبير العرض
       enter_fullscreen: العرض على كامل الشاشة
       first_page: " الصفحة الأولى"
@@ -119,6 +135,13 @@ ar:
         auto_off: " أوتوماتيكي (إيقاف)"
         none: " (لا شيء)"
       text_tracks: الترجمة
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: " تشغيل/إيقاف صندوق المعلومات"
       video: فيديو
       video_qualities:

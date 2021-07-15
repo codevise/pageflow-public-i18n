@@ -13,16 +13,32 @@ bg:
         start_title: Стартирай изглед преди/след
       chapter: Раздел
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Включване/Изключване
       close: Затвори
       close_hint: Затвори предложението
       close_navigation: Затвори навигацията
       close_overview: Затвори прегледа
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Вашият браузър не е обновен и тази страница може да не работи нормално. Препоръчваме обновяване на браузъра до най-новата версия.<p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Излез от вграденото видео
+        opt_in_prompt: 
       enlarge_view: Увеличи изгледа
       enter_fullscreen: Влез в режим на цял екран
       first_page: Първа страница
@@ -119,6 +135,13 @@ bg:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Видео
       video_qualities:

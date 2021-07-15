@@ -13,16 +13,32 @@ cs-CZ:
         start_title: Spustit zobrazení před/po
       chapter: Kapitola
       chart:
+        consent_vendor_name: 
+        opt_in_prompt: 
         toggle: Přepnout
       close: Zavřít
       close_hint: Zavřít nápovědu
       close_navigation: Zavřít navigaci
       close_overview: Zavřít náhled
+      consent_accept_all: 
+      consent_configure: 
+      consent_deny_all: 
+      consent_expand_vendor: 
+      consent_no_vendors: 
+      consent_prompt_html: 
+      consent_save: 
+      consent_settings: 
       cookie_notice_html: 
       deprecated_browser: "<p>Používáte zastaralý prohlížeč, je proto možné, že nedokáže tuto stránku zobrazit tak, jak byla navržena. Doporučujeme jej aktualizovat na nejnovější verzi.</p>"
       dismiss_cookie_notice: 
       embedded_video:
+        consent:
+          vimeo:
+            vendor_name: 
+          youtube:
+            vendor_name: 
         leave_video: Zavřít vložené video
+        opt_in_prompt: 
       enlarge_view: Zvětšit zobrazení
       enter_fullscreen: Přes celou obrazovku
       first_page: Na titulní stranu
@@ -119,6 +135,13 @@ cs-CZ:
         auto_off: 
         none: 
       text_tracks: 
+      third_party_embed_consent:
+        opt_in:
+          confirm: 
+          more_information: 
+        opt_out_info:
+          prompt_html: 
+          prompt_link: 
       toggle_info_box: 
       video: Video
       video_qualities:
