@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.20.0
+
+2021-07-15
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.19.2...v1.20.0)
+
+- Add consent related translations.
+
 ### Version 1.19.1
 
 2021-06-08
