@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.21.0
+
+2022-08-12
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.20.0...v1.21.0)
+
+- Import `pageflow_scrolled.public` translations
+- Complete `fr` translations based on automatic translations
+
 ### Version 1.20.0
 
 2021-07-15
