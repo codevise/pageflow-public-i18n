@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.22.0
+
+2023-03-31
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.21.0...v1.22.0)
+
+- New key: `pageflow.public.read_on`.
+
 ### Version 1.21.0
 
 2022-08-12
