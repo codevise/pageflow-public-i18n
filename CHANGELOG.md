@@ -6,7 +6,7 @@
 
 [Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.21.0...v1.22.0)
 
-- New key: `pageflow.public.read_on`.
+- New key: `pageflow.public.read_more`.
 
 ### Version 1.21.0
 
