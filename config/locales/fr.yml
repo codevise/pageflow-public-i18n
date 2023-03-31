@@ -105,7 +105,8 @@ fr:
         start: Démarrer le panorama à 360°
       play_video: Lancer la vidéo
       privacy_notice: Politique de confidentialité
-      scroll_back_indicator: 
+      read_more: 
+      scroll_back_indicator: " "
       scroll_down: "Faire défiler\t"
       scroll_hint: Utilisez la roulette de la souris ou les touches de direction de votre clavier pour parcourir les pages.
       scroll_indicator: Faire défiler pour continuer
