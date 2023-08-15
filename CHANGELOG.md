@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.22.1
+
+2023-08-15
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.22.0...v1.22.1)
+
+- Fix comma in `pl-PL` "scroll to continue" translation.
+
 ### Version 1.22.0
 
 2023-03-31
