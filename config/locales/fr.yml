@@ -194,6 +194,14 @@ fr:
       enter_fullscreen: Plein écran
       exit_fullscreen: Quitter le mode plein écran
       image_rights: Droits d'image
+      inline_file_rights_labels:
+        after: 
+        atmo: 
+        audio: 
+        before: 
+        image: 
+        poster: 
+        video: 
       js_required: Veuillez activer JavaScript pour que ce site s'affiche correctement.
       languages:
         ar: Arabe
@@ -224,6 +232,7 @@ fr:
         tr: Turc
         unknown: "(Inconnu)"
         zh: Chinois
+      media: 
       navigation:
         chapter: Chapitre %{number}
         close_mobile_menu: fermer l'aperçu du chapitre
