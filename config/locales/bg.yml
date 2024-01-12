@@ -186,6 +186,14 @@ bg:
       enter_fullscreen: 
       exit_fullscreen: 
       image_rights: 
+      inline_file_rights_labels:
+        after: 
+        atmo: 
+        audio: 
+        before: 
+        image: 
+        poster: 
+        video: 
       js_required: 
       languages:
         ar: 
@@ -216,6 +224,7 @@ bg:
         tr: 
         unknown: 
         zh: 
+      media: 
       navigation:
         chapter: 
         close_mobile_menu: 

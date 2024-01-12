@@ -196,6 +196,14 @@ de:
       enter_fullscreen: Vollbild
       exit_fullscreen: Vollbild verlassen
       image_rights: Bildrechte
+      inline_file_rights_labels:
+        after: Nachher-Bild
+        atmo: Atmo
+        audio: Audio
+        before: Vorher-Bild
+        image: Bild
+        poster: Poster
+        video: Video
       js_required: Bitte aktivieren Sie JavaScript, um diese Website korrekt anzuzeigen.
       languages:
         ar: Arabisch
@@ -226,6 +234,7 @@ de:
         tr: Türkisch
         unknown: "(Unbekannt)"
         zh: Chinesisch
+      media: Medien
       navigation:
         chapter: Kapitel %{number}
         close_mobile_menu: Kapitelübersicht schließen

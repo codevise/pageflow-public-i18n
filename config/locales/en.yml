@@ -194,6 +194,14 @@ en:
       enter_fullscreen: Fullscreen
       exit_fullscreen: Exit fullscreen
       image_rights: Image rights
+      inline_file_rights_labels:
+        after: After image
+        atmo: Atmo
+        audio: Audio
+        before: Before image
+        image: Image
+        poster: Poster
+        video: Video
       js_required: Please activate JavaScript to make this website display correctly.
       languages:
         ar: Arabic
@@ -224,6 +232,7 @@ en:
         tr: Turkish
         unknown: "(Unknown)"
         zh: Chinese
+      media: Media
       navigation:
         chapter: Chapter %{number}
         close_mobile_menu: close chapter overview
