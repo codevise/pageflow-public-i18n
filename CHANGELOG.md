@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.23.0
+
+2024-01-12
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.22.1...v1.23.0)
+
+- Add translations for inline file rights display.
+
 ### Version 1.22.1
 
 2023-08-15
