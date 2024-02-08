@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### Version 1.24.0
+
+2024-02-08
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.23.0...v1.24.0)
+
+- New key: `pageflow_scrolled.public.navigation.language`
+- New key: `pageflow_scrolled.public.third_party_consent.opt_in_prompt.twitter`
+
 ### Version 1.23.0
 
 2024-01-12
