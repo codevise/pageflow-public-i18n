@@ -236,6 +236,7 @@ en:
       navigation:
         chapter: Chapter %{number}
         close_mobile_menu: close chapter overview
+        language: Language
         legal_info: Imprint
         mute: Mute sound
         open_mobile_menu: Open chapter overview
@@ -261,6 +262,7 @@ en:
         opt_in_prompt:
           datawrapper: I agree with being shown Datawrapper graphs.
           facebook: I agree with being shown Facebook videos.
+          twitter: I agree with being shown content from X.
           vimeo: I agree with being shown Vimeo videos.
           youtube: I agree with being shown YouTube videos.
         opt_out:

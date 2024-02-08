@@ -228,6 +228,7 @@ rm:
       navigation:
         chapter: 
         close_mobile_menu: 
+        language: 
         legal_info: 
         mute: 
         open_mobile_menu: 
@@ -253,6 +254,7 @@ rm:
         opt_in_prompt:
           datawrapper: 
           facebook: 
+          twitter: 
           vimeo: 
           youtube: 
         opt_out:

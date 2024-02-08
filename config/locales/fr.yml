@@ -236,6 +236,7 @@ fr:
       navigation:
         chapter: Chapitre %{number}
         close_mobile_menu: fermer l'aperçu du chapitre
+        language: Langue
         legal_info: Impressum
         mute: Muet le son
         open_mobile_menu: Aperçu du chapitre ouvert
@@ -261,6 +262,7 @@ fr:
         opt_in_prompt:
           datawrapper: Je suis d'accord pour que l'on montre les graphiques de Datawrapper.
           facebook: Je suis d'accord pour que l'on montre des vidéos de Facebook.
+          twitter: Je suis d'accord pour que l'on montre les contenus de X.
           vimeo: Je suis d'accord pour que l'on montre des vidéos Vimeo.
           youtube: Je suis d'accord pour que l'on montre des vidéos YouTube.
         opt_out:

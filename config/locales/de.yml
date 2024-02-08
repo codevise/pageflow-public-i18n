@@ -238,6 +238,7 @@ de:
       navigation:
         chapter: Kapitel %{number}
         close_mobile_menu: Kapitelübersicht schließen
+        language: Sprache
         legal_info: Impressum
         mute: Ton stummschalten
         open_mobile_menu: Kapitelübersicht öffnen
@@ -263,6 +264,7 @@ de:
         opt_in_prompt:
           datawrapper: Ich bin damit einverstanden, dass mir Diagramme von Datawrapper angezeigt werden.
           facebook: Ich bin damit einverstanden, dass mir Facebook Videos gezeigt werden.
+          twitter: Ich bin damit einverstanden, dass Inhalte von X angezeigt werden.
           vimeo: Ich bin damit einverstanden, dass mir Vimeo Videos gezeigt werden.
           youtube: Ich bin damit einverstanden, dass mir YouTube Videos gezeigt werden.
         opt_out:
