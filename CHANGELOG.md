@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.25.0
+
+2024-04-03
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.24.0...v1.25.0)
+
+- New key: `pageflow_scrolled.public.third_party_consent.opt_in_prompt.tiktok`
+
 ### Version 1.24.0
 
 2024-02-08
