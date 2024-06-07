@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.26.0
+
+2024-06-07
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.25.0...v1.26.0)
+
+- Replace mentions of Twitter with X.
+
 ### Version 1.25.0
 
 2024-04-03
