@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### Version 1.27.0
+
+2024-10-07
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.26.0...v1.27.0)
+
+- New keys: `pageflow_scrolled.public.more`
+- New keys: `pageflow_scrolled.public.next`
+- New keys: `pageflow_scrolled.public.previous`
+
 ### Version 1.26.0
 
 2024-06-07
