@@ -233,6 +233,7 @@ en:
         unknown: "(Unknown)"
         zh: Chinese
       media: Media
+      more: More
       navigation:
         chapter: Chapter %{number}
         close_mobile_menu: close chapter overview
@@ -244,12 +245,14 @@ en:
         unmute: Unmute sound
       navigation_skip_links:
         content: To the content
+      next: Next
       player_controls:
         pause: Pause
         play: Play
         progress: 'Timeline. Current time: %{currentTime}. Duration: %{duration}'
         quality: Quality
         text_tracks: Subtitles
+      previous: Previous
       sound_disclaimer:
         help_muted: This site works best with sound turned on. Click here to activate sound.
         help_unmuted: Sound can be muted again using the speaker icon in the navigation.

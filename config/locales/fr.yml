@@ -233,6 +233,7 @@ fr:
         unknown: "(Inconnu)"
         zh: Chinois
       media: 
+      more: 
       navigation:
         chapter: Chapitre %{number}
         close_mobile_menu: fermer l'aperçu du chapitre
@@ -244,12 +245,14 @@ fr:
         unmute: Désactiver Muet
       navigation_skip_links:
         content: Accéder au contenu
+      next: 
       player_controls:
         pause: Pause
         play: Lancer
         progress: 'Ligne de temps. Heure actuelle : %{currentTime}. Durée : %{duration}'
         quality: Qualité
         text_tracks: " Sous-Titres"
+      previous: 
       sound_disclaimer:
         help_muted: Ce site fonctionne mieux lorsque le son est activé. Cliquez ici pour activer le son.
         help_unmuted: Le son peut être à nouveau coupé à l'aide de l'icône du haut-parleur dans la navigation.

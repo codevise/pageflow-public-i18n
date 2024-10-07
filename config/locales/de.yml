@@ -235,6 +235,7 @@ de:
         unknown: "(Unbekannt)"
         zh: Chinesisch
       media: Medien
+      more: Mehr
       navigation:
         chapter: Kapitel %{number}
         close_mobile_menu: Kapitelübersicht schließen
@@ -246,12 +247,14 @@ de:
         unmute: Ton aktivieren
       navigation_skip_links:
         content: Zum Inhalt
+      next: Nächster
       player_controls:
         pause: Pausieren
         play: Wiedergeben
         progress: 'Zeitachse. Verstrichene Zeit: %{currentTime}. Gesamtzeit: %{duration}'
         quality: Qualität
         text_tracks: Untertitel
+      previous: Vorheriger
       sound_disclaimer:
         help_muted: Diese Seite wirkt am besten mit eingeschaltetem Ton. Klicke hier, um den Ton zu aktivieren.
         help_unmuted: Der Ton kann über das Lautsprecher-Symbol in der Navigationsleiste wieder deaktiviert werden.

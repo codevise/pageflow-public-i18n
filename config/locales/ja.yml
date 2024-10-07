@@ -225,6 +225,7 @@ ja:
         unknown: 
         zh: 
       media: 
+      more: 
       navigation:
         chapter: 
         close_mobile_menu: 
@@ -236,12 +237,14 @@ ja:
         unmute: 
       navigation_skip_links:
         content: 
+      next: 
       player_controls:
         pause: 
         play: 
         progress: 
         quality: 
         text_tracks: 
+      previous: 
       sound_disclaimer:
         help_muted: 
         help_unmuted: 
