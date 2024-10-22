@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### Version 1.28.0
+
+2024-10-22
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.27.0...v1.28.0)
+
+- Add `Pageflow::PublicI18n::LocalesHelper`
+
 ### Version 1.27.0
 
 2024-10-07
