@@ -1,5 +1,16 @@
 # CHANGELOG
 
+### Version 1.29.0
+
+2025-09-17
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.28.0...v1.29.0)
+
+- New keys: `pageflow.public.share_on_bluesky`
+- New keys: `pageflow.public.share_on_threads`
+- New keys: `pageflow_scrolled.public.go_to_image_gallery_item`
+- New keys: `pageflow_scrolled.public.image_gallery_pagination`
+
 ### Version 1.28.0
 
 2024-10-22
