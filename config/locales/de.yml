@@ -118,9 +118,11 @@ de:
       share: Teilen
       share_in_telegram: In Telegram teilen
       share_in_whats_app: In WhatsApp teilen
+      share_on_bluesky: Auf Bluesky teilen
       share_on_facebook: Auf Facebook teilen
       share_on_google: Auf Google teilen
       share_on_linked_in: Auf LinkedIn teilen
+      share_on_threads: Auf Threads teilen
       share_on_twitter: Auf X teilen
       share_this_entry: Diesen Beitrag
       share_this_page: Diese Seite
@@ -195,6 +197,8 @@ de:
       consent_settings: Privatsphäre-Einstellungen
       enter_fullscreen: Vollbild
       exit_fullscreen: Vollbild verlassen
+      go_to_image_gallery_item: "Gehe zu Bild %{index}"
+      image_gallery_pagination: "Bildergalerie-Paginierung"
       image_rights: Bildrechte
       inline_file_rights_labels:
         after: Nachher-Bild
