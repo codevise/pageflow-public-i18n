@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### Version 1.30.0
+
+2026-05-11
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.29.0...v1.30.0)
+
+- New locale: `de-CH`
+- New locale: `fr-CH`
+- New locale: `it-CH`
+
 ### Version 1.29.0
 
 2025-09-17
