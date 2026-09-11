@@ -180,8 +180,13 @@ de:
           high: HD
   pageflow_scrolled:
     public:
+      ai_indicators:
+        ai: KI
+        ai_generated: KI-generiert
+        ai_modified: KI-modifiziert
       chart:
         default_title: Interaktives Diagramm
+      close: Schließen
       consent_accept_all: Alle akzeptieren und schließen
       consent_configure: Mehr Informationen
       consent_deny_all: Ablehnen
@@ -196,7 +201,9 @@ de:
       consent_save: Auswahl speichern
       consent_settings: Privatsphäre-Einstellungen
       enter_fullscreen: Vollbild
+      exit_excursion: Exkurs verlassen
       exit_fullscreen: Vollbild verlassen
+      flip_card: Karte wenden
       go_to_image_gallery_item: "Gehe zu Bild %{index}"
       image_gallery_pagination: "Bildergalerie-Paginierung"
       image_rights: Bildrechte

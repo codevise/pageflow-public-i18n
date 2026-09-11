@@ -179,8 +179,13 @@ en:
           high: HD
   pageflow_scrolled:
     public:
+      ai_indicators:
+        ai: AI
+        ai_generated: AI generated
+        ai_modified: AI modified
       chart:
         default_title: Interactive chart
+      close: Close
       consent_accept_all: Accept all and close
       consent_configure: More Information
       consent_deny_all: Deny
@@ -194,7 +199,9 @@ en:
       consent_save: Save selection
       consent_settings: Privacy Settings
       enter_fullscreen: Fullscreen
+      exit_excursion: Exit excursion
       exit_fullscreen: Exit fullscreen
+      flip_card: Flip card
       go_to_image_gallery_item: "Go to image %{index}"
       image_gallery_pagination: "Image gallery pagination"
       image_rights: Image rights
