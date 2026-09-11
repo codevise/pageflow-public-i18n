@@ -1,5 +1,16 @@
 # CHANGELOG
 
+### Version 1.31.0
+
+2026-09-11
+
+[Compare changes](https://github.com/codevise/pageflow-public-i18n/compare/v1.30.0...v1.31.0)
+
+- New keys: `pageflow_scrolled.public.ai_indicators`
+- New keys: `pageflow_scrolled.public.close`
+- New keys: `pageflow_scrolled.public.exit_excursion`
+- New keys: `pageflow_scrolled.public.flip_card`
+
 ### Version 1.30.0
 
 2026-05-11
